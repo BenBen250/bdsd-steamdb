@@ -1,0 +1,10144 @@
+[
+  {
+    "appid": 764580,
+    "name": "RealmCraft",
+    "release_date": "19 Feb, 2018",
+    "price": 3300,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Simulation",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2618730,
+    "name": "Monster Lover 1 Soundtrack",
+    "release_date": "10 Jul, 2024",
+    "price": 2000,
+    "genres": [],
+    "type": "music"
+  },
+  {
+    "appid": 3247510,
+    "name": "NanoCatastrophe",
+    "release_date": "To be announced",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2302120,
+    "name": "Infinitum: The Backrooms Story",
+    "release_date": "Q4 2025",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Simulation",
+      "Free To Play",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 297140,
+    "name": "ComiPo!: Office Wear",
+    "release_date": "16 Sep, 2014",
+    "price": 12500,
+    "genres": [
+      "Animation & Modeling",
+      "Design & Illustration",
+      "Web Publishing"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2199980,
+    "name": "Alpha Terminus",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2821070,
+    "name": "Ghoul Fort Demo",
+    "release_date": "10 Jun, 2024",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 3452330,
+    "name": "DREAD FLATS Demo",
+    "release_date": "24 Feb, 2025",
+    "price": null,
+    "genres": [
+      "Indie"
+    ],
+    "type": "demo"
+  },
+  {
+    "appid": 2331950,
+    "name": "WebCum Empire Tycoon 📷 💦",
+    "release_date": "22 Apr, 2023",
+    "price": 974,
+    "genres": [
+      "Casual",
+      "Simulation",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3969190,
+    "name": "PomoTrain: Rabbit Town",
+    "release_date": "To be announced",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2227240,
+    "name": "Grassassins",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1853410,
+    "name": "The Shape of Things",
+    "release_date": "26 May, 2023",
+    "price": 3800,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 284930,
+    "name": "Speed Kills",
+    "release_date": "16 May, 2014",
+    "price": 2000,
+    "genres": [
+      "Action",
+      "Indie",
+      "Racing"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 323060,
+    "name": "Tharsis",
+    "release_date": "11 Jan, 2016",
+    "price": 9900,
+    "genres": [
+      "Casual",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 992490,
+    "name": "iVRy Driver for SteamVR",
+    "release_date": "24 Jan, 2019",
+    "price": null,
+    "genres": [
+      "Utilities"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2680440,
+    "name": "MONOWAVE",
+    "release_date": "2025",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 615530,
+    "name": "Love, Money, Rock'n'Roll",
+    "release_date": "4 Aug, 2022",
+    "price": 6600,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3995200,
+    "name": "Why's It Getting DARKER?! Demo",
+    "release_date": "7 Sep, 2025",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 824760,
+    "name": "Deathtrap Dungeon Trilogy",
+    "release_date": "11 Jul, 2018",
+    "price": 1840,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 939870,
+    "name": "BlackberryNOVA",
+    "release_date": "19 Aug, 2021",
+    "price": 4600,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2733690,
+    "name": "Grub Truck",
+    "release_date": "24 Jun, 2024",
+    "price": 8900,
+    "genres": [
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 966522,
+    "name": "Groove Coaster - Kyouen",
+    "release_date": "24 Dec, 2018",
+    "price": 1300,
+    "genres": [
+      "Action"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3644370,
+    "name": "Lust Knight Lisa Alternate Costume - Sexy Cure",
+    "release_date": "14 Apr, 2025",
+    "price": 2000,
+    "genres": [
+      "RPG"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1453583,
+    "name": "Ambient Channels: Dreamscapes - Graveyard",
+    "release_date": "24 Oct, 2020",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Simulation"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2859820,
+    "name": "Nora: In Search of Hidden Ingredients",
+    "release_date": "15 May, 2025",
+    "price": 5200,
+    "genres": [
+      "Casual"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1624820,
+    "name": "Tire Friend Playtest",
+    "release_date": "8 Feb, 2024",
+    "price": null,
+    "genres": [],
+    "type": "game"
+  },
+  {
+    "appid": 536571,
+    "name": "FSX Steam Edition: Toposim West Africa Add-On",
+    "release_date": "11 Jan, 2017",
+    "price": 9900,
+    "genres": [
+      "Simulation"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 583850,
+    "name": "Punch! Home & Landscape Design Essentials v19",
+    "release_date": "20 Mar, 2017",
+    "price": 30800,
+    "genres": [
+      "Design & Illustration"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2918170,
+    "name": "Dark Age Legends Playtest",
+    "release_date": "5 Jul, 2024",
+    "price": null,
+    "genres": [],
+    "type": "game"
+  },
+  {
+    "appid": 1450030,
+    "name": "舰队使命 大海战2 Soundtrack",
+    "release_date": "17 Oct, 2020",
+    "price": null,
+    "genres": [],
+    "type": "music"
+  },
+  {
+    "appid": 1417260,
+    "name": "DCS: A-10C II Tank Killer",
+    "release_date": "30 Sep, 2020",
+    "price": 62578,
+    "genres": [
+      "Simulation"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2247600,
+    "name": "\"Jessica's Life: The Beginning\" 4K Images Pack",
+    "release_date": "20 Dec, 2022",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2658740,
+    "name": "Island of Mine",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1095760,
+    "name": "大巫 Great Witcher",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3162190,
+    "name": "Automated & Self Sustained",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Action"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2143170,
+    "name": "Derp Souls",
+    "release_date": "3 Oct, 2022",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Free To Play"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1227457,
+    "name": "RetroArch - FreeIntv",
+    "release_date": "14 Jun, 2022",
+    "price": null,
+    "genres": [
+      "Free To Play"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2174220,
+    "name": "DoTeam",
+    "release_date": "11 Jan, 2023",
+    "price": 1300,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1399010,
+    "name": "Fantasy Grounds - Black Scrolls Desert Canyons (Map Tile Pack)",
+    "release_date": "18 Sep, 2020",
+    "price": 5200,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1947690,
+    "name": "B.I.N.D.",
+    "release_date": "18 Aug, 2022",
+    "price": 11800,
+    "genres": [
+      "Adventure",
+      "Casual"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3468680,
+    "name": "Farmer's  Defence 2 Demo",
+    "release_date": "10 Feb, 2025",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 2244340,
+    "name": "The Feast - Chef's Special - Digital Goods Pack",
+    "release_date": "16 Dec, 2022",
+    "price": 1300,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Free To Play",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3691170,
+    "name": "Trial Takedown",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2095300,
+    "name": "Breakout 13",
+    "release_date": "8 Jan, 2023",
+    "price": 4600,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1397390,
+    "name": "The Break-In",
+    "release_date": "29 May, 2025",
+    "price": 12500,
+    "genres": [
+      "Action",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 341190,
+    "name": "Hotline Miami 2: Wrong Number Digital Comic",
+    "release_date": "17 Feb, 2015",
+    "price": null,
+    "genres": [],
+    "type": "game"
+  },
+  {
+    "appid": 3682450,
+    "name": "Nina",
+    "release_date": "19 Jun, 2025",
+    "price": 3300,
+    "genres": [
+      "Casual"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 370520,
+    "name": "Quantum Rush Champions Demo",
+    "release_date": "15 May, 2015",
+    "price": null,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Racing",
+      "Simulation",
+      "Sports"
+    ],
+    "type": "demo"
+  },
+  {
+    "appid": 2132290,
+    "name": "30 minutes to die Demo",
+    "release_date": "26 Aug, 2022",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 1831320,
+    "name": "Rescue Team: Power Eaters",
+    "release_date": "22 Dec, 2021",
+    "price": 3800,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2181271,
+    "name": "Animalia Haloween Dead",
+    "release_date": "17 Oct, 2022",
+    "price": 7200,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Massively Multiplayer",
+      "Simulation",
+      "Strategy"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3932600,
+    "name": "Taina's Cursed Legacy: Chapter II",
+    "release_date": "27 Aug, 2025",
+    "price": 5200,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1382700,
+    "name": "GRIP: Combat Racing - Fade Garage Kit",
+    "release_date": "25 Sep, 2020",
+    "price": 540,
+    "genres": [
+      "Action",
+      "Indie",
+      "Racing"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3690300,
+    "name": "Blobbert and Tutorialbert Demo",
+    "release_date": "25 Apr, 2025",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 2574160,
+    "name": "RPG Maker MV - Classic Fantasy Music Pack Vol 3",
+    "release_date": "7 Sep, 2023",
+    "price": 8300,
+    "genres": [
+      "RPG",
+      "Design & Illustration",
+      "Education",
+      "Web Publishing",
+      "Game Development"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2884540,
+    "name": "The Way of Cooking",
+    "release_date": "11 Jun, 2024",
+    "price": 5200,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 392430,
+    "name": "MotoGP™15 GP de Portugal Circuito Estoril",
+    "release_date": "4 Dec, 2015",
+    "price": 3300,
+    "genres": [
+      "Racing",
+      "Simulation",
+      "Sports"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 222551,
+    "name": "Train Simulator: Southern Pacific SD45 Loco Add-On",
+    "release_date": "14 Feb, 2013",
+    "price": 5900,
+    "genres": [
+      "Simulation"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1269670,
+    "name": "Quench Demo",
+    "release_date": "18 Mar, 2020",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "type": "demo"
+  },
+  {
+    "appid": 2740260,
+    "name": "Stickin' the Landing",
+    "release_date": "24 Oct, 2024",
+    "price": 5200,
+    "genres": [
+      "Casual"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3749550,
+    "name": "JDM: Japanese Drift Master - Supporter Pack",
+    "release_date": "21 May, 2025",
+    "price": 3300,
+    "genres": [
+      "Racing",
+      "Simulation",
+      "Sports"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3398140,
+    "name": "Supermarket Simulator Pro",
+    "release_date": "3 Mar, 2025",
+    "price": 4699,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1348220,
+    "name": "Colorize",
+    "release_date": "3 Jul, 2020",
+    "price": 1300,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3241850,
+    "name": "eWorlds - Supporter Pack",
+    "release_date": "31 Oct, 2024",
+    "price": 3900,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Massively Multiplayer",
+      "Free To Play"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1266540,
+    "name": "Ships At Sea",
+    "release_date": "23 May, 2024",
+    "price": 15600,
+    "genres": [
+      "Simulation",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3238240,
+    "name": "Scaravan 66",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Action",
+      "Indie",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 792470,
+    "name": "WWⅡ英雄列伝 泥の中の虎　オットー・カリウス",
+    "release_date": "8 Feb, 2018",
+    "price": 8200,
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2861020,
+    "name": "Frog Corner",
+    "release_date": "4 Nov, 2024",
+    "price": 2000,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3897080,
+    "name": "Dimenshot",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 99900,
+    "name": "Spiral Knights",
+    "release_date": "14 Jun, 2011",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Free To Play",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3448320,
+    "name": "Altar",
+    "release_date": "27 Feb, 2025",
+    "price": 700,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 258010,
+    "name": "Ring Runner: Flight of the Sages",
+    "release_date": "19 Nov, 2013",
+    "price": 3900,
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3087650,
+    "name": "A Shelter Full of Cats",
+    "release_date": "9 Dec, 2024",
+    "price": 2640,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3019070,
+    "name": "On Your Hands Soundtrack",
+    "release_date": "21 Aug, 2024",
+    "price": 3300,
+    "genres": [],
+    "type": "music"
+  },
+  {
+    "appid": 1359170,
+    "name": "Killer Dog",
+    "release_date": "16 Jul, 2020",
+    "price": 2300,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1952644,
+    "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Mini Beasts",
+    "release_date": "25 Apr, 2024",
+    "price": 6600,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Sports",
+      "Strategy",
+      "Free To Play"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3508610,
+    "name": "Hidden Arcade Soundtrack",
+    "release_date": "9 Feb, 2025",
+    "price": 700,
+    "genres": [],
+    "type": "music"
+  },
+  {
+    "appid": 3654990,
+    "name": "Infra Et Intus",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Adventure",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 771690,
+    "name": "Fimbul",
+    "release_date": "28 Feb, 2019",
+    "price": 5200,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3399950,
+    "name": "Your Mother",
+    "release_date": "28 Feb, 2025",
+    "price": 640,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1300370,
+    "name": "KABOOM - 1 vs 1 Battle",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3462090,
+    "name": "Little Green Girl: Audio Drama #1",
+    "release_date": "11 Feb, 2025",
+    "price": 3300,
+    "genres": [],
+    "type": "music"
+  },
+  {
+    "appid": 2128140,
+    "name": "Deer Hunting - The Season",
+    "release_date": "7 Oct, 2022",
+    "price": 5200,
+    "genres": [
+      "Simulation",
+      "Sports"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3739300,
+    "name": "Cat Squeeze",
+    "release_date": "2025",
+    "price": null,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1966930,
+    "name": "Ballistic Zen",
+    "release_date": "25 Jan, 2023",
+    "price": 6600,
+    "genres": [
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3905590,
+    "name": "Chill Fox",
+    "release_date": "Q3 2025",
+    "price": null,
+    "genres": [
+      "Action",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 769030,
+    "name": "Twine3D",
+    "release_date": "26 Dec, 2017",
+    "price": 350,
+    "genres": [
+      "Casual"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3956440,
+    "name": "Individual Investor Tycoon 2",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2427210,
+    "name": "Cat's Request Demo",
+    "release_date": "19 May, 2023",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 2137910,
+    "name": "Call of Duty®: Modern Warfare® II - Urban Veteran: Pro Pack",
+    "release_date": "23 Feb, 2023",
+    "price": 15500,
+    "genres": [
+      "Action"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 344530,
+    "name": "TinyKeep Original Soundtrack",
+    "release_date": "26 Mar, 2015",
+    "price": 2800,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1468980,
+    "name": "ALIEN ANIMALS Demo",
+    "release_date": "6 Dec, 2021",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 1289453,
+    "name": "TEKKEN 7 - DLC18: Lidia Sobieska",
+    "release_date": "23 Mar, 2021",
+    "price": 4900,
+    "genres": [
+      "Action",
+      "Sports"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3431910,
+    "name": "Sympathy for the Wicked: Hindsight",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 737930,
+    "name": "Online Circle Pong",
+    "release_date": "11 Jan, 2018",
+    "price": 600,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Massively Multiplayer"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2832510,
+    "name": "Esteem - The little wolf saga",
+    "release_date": "6 Mar, 2025",
+    "price": 6600,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1746780,
+    "name": "Savior of Light",
+    "release_date": "15 Oct, 2021",
+    "price": null,
+    "genres": [
+      "Adventure",
+      "Free To Play",
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 345620,
+    "name": "The Labyrinth of Grisaia",
+    "release_date": "22 Jun, 2016",
+    "price": 17800,
+    "genres": [
+      "Adventure",
+      "Casual"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2390240,
+    "name": "Sweet Science – The Girls of Silversee Castle Demo",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 1027570,
+    "name": "The Deep Deep",
+    "release_date": "To be announced",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2666550,
+    "name": "Dead Season",
+    "release_date": "8 Oct, 2024",
+    "price": 7500,
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2070540,
+    "name": "Shogunaria",
+    "release_date": "3 Oct, 2022",
+    "price": 3800,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1754150,
+    "name": "Car Tuning Simulator",
+    "release_date": "29 Oct, 2021",
+    "price": 350,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Racing",
+      "Simulation",
+      "Sports"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 992120,
+    "name": "Inch by Inch",
+    "release_date": "31 Dec, 2018",
+    "price": 1800,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1887840,
+    "name": "Another Crab's Treasure",
+    "release_date": "25 Apr, 2024",
+    "price": 17900,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2408520,
+    "name": "RPG Maker MZ - Rogue Adventure - Graveyard Tileset",
+    "release_date": "4 May, 2023",
+    "price": 8300,
+    "genres": [
+      "RPG",
+      "Design & Illustration",
+      "Education",
+      "Web Publishing",
+      "Game Development"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1259990,
+    "name": "Super Dee",
+    "release_date": "23 Mar, 2020",
+    "price": 700,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2313670,
+    "name": "Drake's Dungeon",
+    "release_date": "15 Jan, 2024",
+    "price": 21800,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1212180,
+    "name": "Ravesta Racing",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Massively Multiplayer",
+      "Racing",
+      "Simulation",
+      "Sports",
+      "Strategy",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2287260,
+    "name": "RPG Stories Demo",
+    "release_date": "6 Feb, 2023",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 2531560,
+    "name": "Project Arcade",
+    "release_date": "21 Dec, 2023",
+    "price": 700,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Strategy",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1795940,
+    "name": "Blaston Soundtrack Vol. 1",
+    "release_date": "29 Oct, 2021",
+    "price": null,
+    "genres": [],
+    "type": "music"
+  },
+  {
+    "appid": 1381670,
+    "name": "Into The Flames - Supporter Pack",
+    "release_date": "10 Jan, 2023",
+    "price": 2000,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3262260,
+    "name": "Fighting Monsters In West Province",
+    "release_date": "29 Oct, 2024",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Free To Play"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2838250,
+    "name": "Beat Saber - Daft Punk - \"Da Funk / Daftendirekt\"",
+    "release_date": "7 Mar, 2024",
+    "price": 1300,
+    "genres": [
+      "Indie"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2208920,
+    "name": "Assassin's Creed Valhalla",
+    "release_date": "6 Dec, 2022",
+    "price": 12380000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1163300,
+    "name": "visser",
+    "release_date": "17 Jan, 2020",
+    "price": 1800,
+    "genres": [
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2202830,
+    "name": "Fantasy Grounds - Pathfinder RPG - Pathfinder Flip-Mat - Carnival",
+    "release_date": "8 Nov, 2022",
+    "price": 9500,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2269770,
+    "name": "CallOfTree",
+    "release_date": "25 Jan, 2023",
+    "price": 6600,
+    "genres": [
+      "Action",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 506510,
+    "name": "Shadows of Adam",
+    "release_date": "23 Feb, 2017",
+    "price": 7600,
+    "genres": [
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2804680,
+    "name": "Only Way is Down",
+    "release_date": "31 Mar, 2025",
+    "price": 6600,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2147540,
+    "name": "Spell Defender Demo",
+    "release_date": "21 Sep, 2022",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 3497490,
+    "name": "Spooky Night Demo",
+    "release_date": "22 Feb, 2025",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 1720520,
+    "name": "Flail Faster",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Action",
+      "Indie",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2850520,
+    "name": "KanjiMemory",
+    "release_date": "28 Mar, 2024",
+    "price": 2600,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1665590,
+    "name": "Blood Nor Water",
+    "release_date": "27 Mar, 2024",
+    "price": 12500,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1731200,
+    "name": "TRATRITLE",
+    "release_date": "15 Jul, 2022",
+    "price": 7500,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3034000,
+    "name": "DREAMOUT Demo",
+    "release_date": "7 Jun, 2024",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 3155810,
+    "name": "ホロポップ",
+    "release_date": "4 Sep, 2024",
+    "price": 2600,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 612570,
+    "name": "Fort Triumph",
+    "release_date": "16 Apr, 2020",
+    "price": 8900,
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3540290,
+    "name": "Monmusu Paradise ~Visitors~ Demo",
+    "release_date": "19 May, 2025",
+    "price": null,
+    "genres": [
+      "Action",
+      "Casual",
+      "RPG",
+      "Simulation"
+    ],
+    "type": "demo"
+  },
+  {
+    "appid": 3034130,
+    "name": "Love is...",
+    "release_date": "26 Aug, 2024",
+    "price": 3960,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1706800,
+    "name": "The Art Of Flight",
+    "release_date": "7 Apr, 2025",
+    "price": 6600,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2174170,
+    "name": "VInput",
+    "release_date": "23 Nov, 2022",
+    "price": 2000,
+    "genres": [
+      "Animation & Modeling",
+      "Utilities"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1205640,
+    "name": "BREAK THROUGH",
+    "release_date": "31 Mar, 2024",
+    "price": 1300,
+    "genres": [
+      "Action"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2744450,
+    "name": "A Weekend Trip",
+    "release_date": "30 Apr, 2025",
+    "price": 3300,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3466410,
+    "name": "Hero's Odyssey: Summoned into Ancient Greece with a Quest I Didn't Ask For! Demo",
+    "release_date": "9 Feb, 2025",
+    "price": null,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "type": "demo"
+  },
+  {
+    "appid": 690980,
+    "name": "TO4: Tactical Operations",
+    "release_date": "11 Jun, 2020",
+    "price": null,
+    "genres": [
+      "Action",
+      "Indie",
+      "Free To Play",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2484590,
+    "name": "Ceiba Demo",
+    "release_date": "21 Jun, 2023",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 400950,
+    "name": "McDROID - The Swan Song DLC",
+    "release_date": "16 Oct, 2017",
+    "price": 2800,
+    "genres": [
+      "Action",
+      "Indie",
+      "Strategy"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1629220,
+    "name": "Escape From Ruby Castle",
+    "release_date": "3 Jun, 2021",
+    "price": 1800,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1939832,
+    "name": "Beat Saber - Fall Out Boy - 'I Don’t Care'",
+    "release_date": "31 Mar, 2022",
+    "price": 1300,
+    "genres": [
+      "Indie"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1508300,
+    "name": "OMORI Soundtrack",
+    "release_date": "6 Feb, 2021",
+    "price": 6600,
+    "genres": [],
+    "type": "music"
+  },
+  {
+    "appid": 3251630,
+    "name": "UpRunner Demo",
+    "release_date": "10 Oct, 2024",
+    "price": null,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Massively Multiplayer",
+      "Racing"
+    ],
+    "type": "demo"
+  },
+  {
+    "appid": 1195050,
+    "name": "SWEET MILF -Episode　Sizue-",
+    "release_date": "23 Apr, 2020",
+    "price": 4500,
+    "genres": [
+      "Adventure"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2966400,
+    "name": "Silverpine Creek",
+    "release_date": "25 Mar, 2025",
+    "price": 4600,
+    "genres": [
+      "Action",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 869480,
+    "name": "Jabroni Brawl: Episode 3",
+    "release_date": "11 Nov, 2022",
+    "price": null,
+    "genres": [
+      "Action",
+      "Indie",
+      "Free To Play"
+    ],
+    "type": "mod"
+  },
+  {
+    "appid": 2328080,
+    "name": "V-Hunter Puzzler Dx Demo",
+    "release_date": "6 Mar, 2023",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 1704408,
+    "name": "Tiger Fighter 1931 Sunset MP079",
+    "release_date": "11 Sep, 2021",
+    "price": 2000,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3708970,
+    "name": "Totally Reliable Delivery Service - Mascot Mayhem",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Racing",
+      "Simulation"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1155830,
+    "name": "CHERNOBYL: The Untold Story",
+    "release_date": "24 Sep, 2019",
+    "price": 1800,
+    "genres": [
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 914750,
+    "name": "Bee Simulator",
+    "release_date": "17 Nov, 2020",
+    "price": 10900,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3190240,
+    "name": "VocabVan - Punjabi",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Free To Play"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1249150,
+    "name": "Daedaluz",
+    "release_date": "12 Jul, 2020",
+    "price": null,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2777220,
+    "name": "Human Fall Flat VR",
+    "release_date": "31 Oct, 2024",
+    "price": 8500,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 42904,
+    "name": "Hearts of Iron III: Mega German Spritepack",
+    "release_date": "23 Aug, 2011",
+    "price": 800,
+    "genres": [
+      "Strategy"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1749090,
+    "name": "Early Quest 2",
+    "release_date": "24 Oct, 2021",
+    "price": 2800,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3499300,
+    "name": "Somnicore",
+    "release_date": "2025",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3514160,
+    "name": "NieR Gestalt & Replicant 15 Nightmares & Arrange Tracks",
+    "release_date": "13 Mar, 2025",
+    "price": 5800,
+    "genres": [],
+    "type": "music"
+  },
+  {
+    "appid": 1688250,
+    "name": "PRINCESS IN AIRINESS",
+    "release_date": "26 Jul, 2021",
+    "price": 2300,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2293440,
+    "name": "Retropolis 2: Never Say Goodbye",
+    "release_date": "18 Jan, 2024",
+    "price": 15600,
+    "genres": [
+      "Adventure"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3610290,
+    "name": "Wish Me Well Playtest",
+    "release_date": "26 Aug, 2025",
+    "price": null,
+    "genres": [],
+    "type": "game"
+  },
+  {
+    "appid": 1419190,
+    "name": "Way Walkers: University",
+    "release_date": "22 Oct, 2020",
+    "price": 3900,
+    "genres": [
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1173030,
+    "name": "Love Esquire - Original Soundtrack",
+    "release_date": "10 Oct, 2019",
+    "price": 5200,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "type": "music"
+  },
+  {
+    "appid": 1835290,
+    "name": "CRATES N' MOHAWKS",
+    "release_date": "3 Jan, 2022",
+    "price": 700,
+    "genres": [
+      "Action"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1967630,
+    "name": "Survival: Fountain of Youth",
+    "release_date": "21 May, 2024",
+    "price": 16800,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3635260,
+    "name": "﻿The Desert Armor Set",
+    "release_date": "27 Jun, 2025",
+    "price": 5800,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3780300,
+    "name": "Everlusting Life - Mascot Alvira",
+    "release_date": "20 Jun, 2025",
+    "price": 30800,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "RPG",
+      "Strategy",
+      "Free To Play"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 829460,
+    "name": "ZYTERNION Original Soundtrack",
+    "release_date": "14 May, 2019",
+    "price": 600,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1865750,
+    "name": "Faye Falling",
+    "release_date": "19 Jul, 2024",
+    "price": 5200,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 888452,
+    "name": "Talk in der Alm: #02.4 Was ist eigentlich Indie?",
+    "release_date": "26 Jun, 2018",
+    "price": null,
+    "genres": [],
+    "type": "episode"
+  },
+  {
+    "appid": 2587450,
+    "name": "Tank Team",
+    "release_date": "11 Apr, 2024",
+    "price": null,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Free To Play"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3061650,
+    "name": "Frogs",
+    "release_date": "31 Aug, 2024",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Free To Play"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 969653,
+    "name": "RPG Maker MV - Sinister Hollows",
+    "release_date": "1 Nov, 2018",
+    "price": 12500,
+    "genres": [
+      "Design & Illustration",
+      "Web Publishing"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2946140,
+    "name": "Windpunk",
+    "release_date": "To be announced",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 683930,
+    "name": "A Wonder",
+    "release_date": "13 Nov, 2017",
+    "price": null,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Free To Play"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 689040,
+    "name": "Scuttlers",
+    "release_date": "3 Sep, 2018",
+    "price": 3900,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Racing"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1342240,
+    "name": "GUNBARICH",
+    "release_date": "10 Feb, 2021",
+    "price": 5200,
+    "genres": [
+      "Action"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2326410,
+    "name": "One Flag: A 2D Puzzle-Platformer",
+    "release_date": "28 Apr, 2023",
+    "price": 1300,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1265820,
+    "name": "Fights in Tight Spaces",
+    "release_date": "2 Dec, 2021",
+    "price": 2180,
+    "genres": [
+      "Action",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 523080,
+    "name": "Gamepad Controller Template",
+    "release_date": "1 Sep, 2016",
+    "price": 4800,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Sports",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2025581,
+    "name": "The Legend of Heroes: Kuro no Kiseki - Shining Pom Fruit Value Pack (3)",
+    "release_date": "27 Jul, 2022",
+    "price": 3900,
+    "genres": [
+      "RPG"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2519850,
+    "name": "Pigsaw",
+    "release_date": "1 Aug, 2023",
+    "price": 3300,
+    "genres": [
+      "Action"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1264530,
+    "name": "Jay and Silent Bob: Mall Brawl Demo",
+    "release_date": "20 Apr, 2020",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "type": "demo"
+  },
+  {
+    "appid": 2163013,
+    "name": "Otherworld Legends - Skin : Jungle Adventurer",
+    "release_date": "19 Oct, 2022",
+    "price": 2700,
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 440630,
+    "name": "The Brookhaven Experiment",
+    "release_date": "5 Jul, 2016",
+    "price": 11900,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3834120,
+    "name": "Lucid Clowder ( Early Access )",
+    "release_date": "14 Aug, 2025",
+    "price": null,
+    "genres": [
+      "Action",
+      "Indie",
+      "Free To Play",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 237630,
+    "name": "DuckTales: Remastered",
+    "release_date": "13 Aug, 2013",
+    "price": 10800,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2350470,
+    "name": "Kriegsfront Tactics Demo",
+    "release_date": "23 Mar, 2023",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 2129330,
+    "name": "Godstone Demo",
+    "release_date": "7 Sep, 2022",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 2090252,
+    "name": "RPG Maker MV - Japanese School Girls - The Music of Their Stories",
+    "release_date": "21 Jul, 2022",
+    "price": 18700,
+    "genres": [
+      "Design & Illustration",
+      "Web Publishing"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1017230,
+    "name": "Trainz 2019 DLC: C&O Hinton Division",
+    "release_date": "13 Mar, 2019",
+    "price": 12500,
+    "genres": [
+      "Simulation"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1660390,
+    "name": "THE LEGEND OF HEROES: HAJIMARI NO KISEKI - Nadia's Special Costume \"Sweet Devil Summer\"",
+    "release_date": "25 Aug, 2021",
+    "price": 2200,
+    "genres": [
+      "RPG"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 345350,
+    "name": "LIGHTNING RETURNS™: FINAL FANTASY® XIII",
+    "release_date": "10 Dec, 2015",
+    "price": 11900,
+    "genres": [
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3542710,
+    "name": "Campus Bonds - Season 1",
+    "release_date": "To be announced",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1327100,
+    "name": "Squaxel",
+    "release_date": "19 Sep, 2020",
+    "price": 600,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2073910,
+    "name": "A Webbing Journey",
+    "release_date": "19 May, 2025",
+    "price": 5200,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1770110,
+    "name": "Druid: Test of faith Demo",
+    "release_date": "13 Dec, 2021",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 539250,
+    "name": "Retro Parking Demo",
+    "release_date": "20 Dec, 2016",
+    "price": null,
+    "genres": [
+      "Racing",
+      "Simulation",
+      "Strategy"
+    ],
+    "type": "demo"
+  },
+  {
+    "appid": 652270,
+    "name": "Dark and Bright",
+    "release_date": "29 Nov, 2017",
+    "price": 2300,
+    "genres": [
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1861120,
+    "name": "Line Time",
+    "release_date": "11 Sep, 2024",
+    "price": 2500,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3124810,
+    "name": "Guess the Flag!",
+    "release_date": "25 Oct, 2024",
+    "price": 2600,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 229750,
+    "name": "RPG Maker VX Ace - Futuristic Tiles Resource Pack",
+    "release_date": "5 Mar, 2013",
+    "price": 12500,
+    "genres": [],
+    "type": "dlc"
+  },
+  {
+    "appid": 513095,
+    "name": "TS Marketplace: DRG BR 86 Grey Livery Pack Add-On",
+    "release_date": "8 Mar, 2017",
+    "price": 3900,
+    "genres": [
+      "Simulation"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3051630,
+    "name": "Young Detectives: Undersea",
+    "release_date": "26 Jul, 2024",
+    "price": 990,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 247350,
+    "name": "Artemis Spaceship Bridge Simulator",
+    "release_date": "16 Sep, 2013",
+    "price": 4600,
+    "genres": [
+      "Action",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 757480,
+    "name": "Broken Reality",
+    "release_date": "29 Nov, 2018",
+    "price": 7600,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 304000,
+    "name": "theHunter: Wayfarer Starter Pack",
+    "release_date": "24 Oct, 2014",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Free To Play",
+      "Simulation",
+      "Sports"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 586240,
+    "name": "Soul Searching",
+    "release_date": "15 Feb, 2017",
+    "price": 6600,
+    "genres": [
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3699610,
+    "name": "Singularity RPG",
+    "release_date": "4 Jan, 2027",
+    "price": null,
+    "genres": [
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1764390,
+    "name": "BAD END THEATER",
+    "release_date": "26 Oct, 2021",
+    "price": 5200,
+    "genres": [
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1664170,
+    "name": "Reina and Jericho Demo",
+    "release_date": "16 Jun, 2021",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 873730,
+    "name": "Under The War",
+    "release_date": "19 Jun, 2018",
+    "price": 1200,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1439721,
+    "name": "Steam Game Festival: FAITH: The Unholy Trinity",
+    "release_date": "6 Oct, 2020",
+    "price": null,
+    "genres": [],
+    "type": "episode"
+  },
+  {
+    "appid": 1102480,
+    "name": "Reventure OST",
+    "release_date": "12 Jun, 2019",
+    "price": 1200,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "type": "music"
+  },
+  {
+    "appid": 1055580,
+    "name": "Rivals of Aether: Panda Etalus",
+    "release_date": "1 Jul, 2019",
+    "price": 2600,
+    "genres": [
+      "Indie"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 407600,
+    "name": "Raiden Legacy - Steam Edition",
+    "release_date": "10 Dec, 2015",
+    "price": 6600,
+    "genres": [
+      "Action"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2273250,
+    "name": "Aza Playtest",
+    "release_date": "29 Nov, 2023",
+    "price": null,
+    "genres": [],
+    "type": "game"
+  },
+  {
+    "appid": 1811100,
+    "name": "Exoblast - Vampire Skins",
+    "release_date": "31 Jan, 2022",
+    "price": 4500,
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Indie"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3757450,
+    "name": "Immortum Demo",
+    "release_date": "15 Jul, 2025",
+    "price": null,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "type": "demo"
+  },
+  {
+    "appid": 3757360,
+    "name": "Glorious Golf",
+    "release_date": "7 Jul, 2025",
+    "price": 1300,
+    "genres": [
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 770972,
+    "name": "Monster Hunter: World - The Handler's Busy Bee Dress",
+    "release_date": "25 Apr, 2019",
+    "price": 2200,
+    "genres": [
+      "Action"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3680160,
+    "name": "Vivid Days",
+    "release_date": "2025",
+    "price": null,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 748650,
+    "name": "Carnage in Space: Ignition",
+    "release_date": "31 Dec, 2017",
+    "price": 2800,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1835340,
+    "name": "Musicle - Ocean Skin DLC",
+    "release_date": "30 Nov, 2021",
+    "price": 2000,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3730660,
+    "name": "Lethal Invasion",
+    "release_date": "September 2025",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2233820,
+    "name": "Vengeful Castle",
+    "release_date": "26 Feb, 2023",
+    "price": 4600,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 910290,
+    "name": "CRACKPOT DESPOT: TRUMP WARFARE",
+    "release_date": "27 Aug, 2018",
+    "price": 2800,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 907390,
+    "name": "Numberline 3",
+    "release_date": "3 Aug, 2018",
+    "price": 350,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1082480,
+    "name": "Buzz Kill Zero (OLD VERSION)",
+    "release_date": "15 Nov, 2019",
+    "price": 5200,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 620742,
+    "name": "Superdimension Neptune VS Sega Hard Girls - IF's Gust of Wind",
+    "release_date": "12 Jun, 2017",
+    "price": 700,
+    "genres": [
+      "RPG"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1928950,
+    "name": "RPG Maker MZ - Heroine Character Generator 5 for MZ",
+    "release_date": "10 Mar, 2022",
+    "price": 9500,
+    "genres": [
+      "RPG",
+      "Design & Illustration",
+      "Web Publishing"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3752310,
+    "name": "Amazeballs!",
+    "release_date": "17 Jul, 2025",
+    "price": 3900,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2023180,
+    "name": "Fixeight",
+    "release_date": "1 Feb, 2024",
+    "price": 5200,
+    "genres": [
+      "Action"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3088040,
+    "name": "多元守卫者 Diverse Defenders",
+    "release_date": "24 Dec, 2024",
+    "price": 3500,
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3663810,
+    "name": "Train Sim World® 6: Cargo Line Vol. 4 - Military",
+    "release_date": "26 Aug, 2025",
+    "price": 9500,
+    "genres": [
+      "Simulation"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3639860,
+    "name": "Super Kappy Island",
+    "release_date": "2025",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2930940,
+    "name": "佛兰德斯的狗 A Dog of Flanders Playtest",
+    "release_date": "6 May, 2024",
+    "price": null,
+    "genres": [],
+    "type": "game"
+  },
+  {
+    "appid": 835670,
+    "name": "Total War: WARHAMMER II - Curse of the Vampire Coast",
+    "release_date": "8 Nov, 2018",
+    "price": 14300,
+    "genres": [
+      "Action",
+      "Strategy"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3582060,
+    "name": "Harvester Arno",
+    "release_date": "3 Apr, 2025",
+    "price": 2600,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3748050,
+    "name": "Grav My Balls",
+    "release_date": "Q4 2026",
+    "price": null,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 18600,
+    "name": "Mayhem Intergalactic",
+    "release_date": "22 Jan, 2009",
+    "price": 5200,
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2702130,
+    "name": "Renegade: Battle for Jacob's Star",
+    "release_date": "19 Dec, 2023",
+    "price": 3900,
+    "genres": [
+      "Action",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 862260,
+    "name": "Miami Cruise",
+    "release_date": "20 Dec, 2018",
+    "price": 4000,
+    "genres": [
+      "Action",
+      "Indie",
+      "Racing",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2655220,
+    "name": "Blast Course",
+    "release_date": "26 Sep, 2024",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1636720,
+    "name": "EBE: Extraterrestrial Biological Entity Demo",
+    "release_date": "9 Jun, 2021",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 1535420,
+    "name": "Stream Toys by Zokya",
+    "release_date": "30 Jun, 2022",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Free To Play",
+      "Massively Multiplayer"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3096040,
+    "name": "Zrust",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Action"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1796870,
+    "name": "SHINOBI NON GRATA",
+    "release_date": "24 May, 2023",
+    "price": 9500,
+    "genres": [
+      "Action"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2613110,
+    "name": "Enigmarble",
+    "release_date": "22 Mar, 2024",
+    "price": 3900,
+    "genres": [
+      "Action",
+      "Casual"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1360327,
+    "name": "TIGER GAME ASSETS FONT STYLES VOL.20",
+    "release_date": "30 Jun, 2020",
+    "price": 2000,
+    "genres": [
+      "Animation & Modeling",
+      "Design & Illustration",
+      "Education",
+      "Photo Editing",
+      "Software Training",
+      "Video Production",
+      "Web Publishing",
+      "Game Development"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1896450,
+    "name": "Dank Subs",
+    "release_date": "10 May, 2022",
+    "price": null,
+    "genres": [
+      "Indie",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1685377,
+    "name": "Tiger Tank 59 Ⅰ Black Hill Fortress MP028",
+    "release_date": "5 Jul, 2021",
+    "price": 2000,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 736260,
+    "name": "Baba Is You",
+    "release_date": "13 Mar, 2019",
+    "price": 7600,
+    "genres": [
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2484180,
+    "name": "Deadshot",
+    "release_date": "18 Sep, 2024",
+    "price": 6600,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 589310,
+    "name": "Tethered - Original Soundtrack",
+    "release_date": "27 Feb, 2017",
+    "price": 2300,
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3501580,
+    "name": "Rice & Rest",
+    "release_date": "2025",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1330460,
+    "name": "Becastled",
+    "release_date": "8 Feb, 2021",
+    "price": 9500,
+    "genres": [
+      "Indie",
+      "Strategy",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1412281,
+    "name": "The Tower Of TigerQiuQiu Ninja Tiger:QiuQiu",
+    "release_date": "1 Sep, 2020",
+    "price": 2000,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1983680,
+    "name": "Knight Crawlers Demo",
+    "release_date": "2 May, 2022",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 899793,
+    "name": "Rocksmith® 2014 Edition – Remastered – Chuck Berry - “Run, Rudolph, Run”",
+    "release_date": "20 Nov, 2018",
+    "price": 1800,
+    "genres": [
+      "Casual",
+      "Simulation"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1960220,
+    "name": "Holdfast: Frontlines WW1 - Australian Forces",
+    "release_date": "18 Apr, 2022",
+    "price": 3300,
+    "genres": [
+      "Action",
+      "Indie",
+      "Massively Multiplayer",
+      "Simulation",
+      "Strategy"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 441550,
+    "name": "STAR WARS™ Rebellion",
+    "release_date": "1 Mar, 2016",
+    "price": 3900,
+    "genres": [
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 775050,
+    "name": "THE KING OF FIGHTERS: DESTINY: Generator",
+    "release_date": "20 Dec, 2017",
+    "price": null,
+    "genres": [],
+    "type": "episode"
+  },
+  {
+    "appid": 1594440,
+    "name": "Give the People What They Want",
+    "release_date": "6 May, 2022",
+    "price": 2800,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2016560,
+    "name": "Oblivion Eclipse",
+    "release_date": "To be announced",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3660790,
+    "name": "Sad Virus Foodland",
+    "release_date": "1 May, 2025",
+    "price": 1300,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 820870,
+    "name": "Ash of Gods - Beer for Developers",
+    "release_date": "23 Mar, 2018",
+    "price": 2600,
+    "genres": [
+      "Violent",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1065750,
+    "name": "Spark and The Digital Daydream",
+    "release_date": "7 May, 2019",
+    "price": null,
+    "genres": [
+      "Adventure",
+      "Free To Play",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2378614,
+    "name": "Jigsaw Puzzle World - Motorcycles",
+    "release_date": "11 Apr, 2023",
+    "price": 600,
+    "genres": [
+      "Casual",
+      "Free To Play",
+      "Simulation"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2417210,
+    "name": "RealFlight Evolution - 2023 Year Content Pass",
+    "release_date": "17 May, 2023",
+    "price": 54400,
+    "genres": [
+      "Indie",
+      "Racing",
+      "Simulation"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1944290,
+    "name": "Coral Cove Playtest",
+    "release_date": "23 Mar, 2022",
+    "price": null,
+    "genres": [],
+    "type": "game"
+  },
+  {
+    "appid": 3042810,
+    "name": "Stinkytown",
+    "release_date": "30 Aug, 2024",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Free To Play"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1631670,
+    "name": "Project: AHNO's Ark",
+    "release_date": "19 Sep, 2024",
+    "price": 8300,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy",
+      "Accounting"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 526510,
+    "name": "The Hateful Dead",
+    "release_date": "28 Oct, 2016",
+    "price": 1800,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2915830,
+    "name": "Renaissance Kingdom Wars Soundtrack",
+    "release_date": "22 Jul, 2024",
+    "price": 2600,
+    "genres": [],
+    "type": "music"
+  },
+  {
+    "appid": 3921810,
+    "name": "I Pulled a Goth Baddie by Being Autistic",
+    "release_date": "9 Aug, 2025",
+    "price": 700,
+    "genres": [
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1747760,
+    "name": "Momodora: Moonlit Farewell",
+    "release_date": "11 Jan, 2024",
+    "price": 10800,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 855220,
+    "name": "Gal*Gun 2 - Bubble Bath Bikini",
+    "release_date": "3 Aug, 2018",
+    "price": 2000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2440860,
+    "name": "Reinforced Machine",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2681260,
+    "name": "Smash and Bash Monsters",
+    "release_date": "23 Feb, 2024",
+    "price": 2600,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 637837,
+    "name": "Rocksmith® 2014 Edition – Remastered – Jethro Tull - “Aqualung”",
+    "release_date": "30 Jan, 2018",
+    "price": 1800,
+    "genres": [
+      "Casual",
+      "Simulation"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 498700,
+    "name": "The Ember Saga: A New Fire",
+    "release_date": "26 Aug, 2016",
+    "price": 700,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1416800,
+    "name": "Heroes Raid",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Free To Play",
+      "RPG",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2827310,
+    "name": "漂流瓶盖 Drifting Bottle Cap",
+    "release_date": "29 Mar, 2024",
+    "price": 3900,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Racing",
+      "Simulation",
+      "Sports"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2587040,
+    "name": "JACKPOT 2",
+    "release_date": "23 Sep, 2023",
+    "price": 2600,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1103670,
+    "name": "EARTH DEFENSE FORCE: IRON RAIN - Operator Voice : Riho Futaba (Japanese voice only)",
+    "release_date": "15 Oct, 2019",
+    "price": 1800,
+    "genres": [
+      "Action"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 616680,
+    "name": "Monster Showdown",
+    "release_date": "26 Jan, 2022",
+    "price": 7600,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1199030,
+    "name": "Tainted Grail: Conquest",
+    "release_date": "27 May, 2021",
+    "price": 1780,
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 70140,
+    "name": "Hacker Evolution: Untold - Demo",
+    "release_date": "16 Dec, 2010",
+    "price": null,
+    "genres": [
+      "Simulation"
+    ],
+    "type": "demo"
+  },
+  {
+    "appid": 1630040,
+    "name": "At Your Feet - OST & wallpapers",
+    "release_date": "1 Sep, 2021",
+    "price": 3300,
+    "genres": [],
+    "type": "music"
+  },
+  {
+    "appid": 485146,
+    "name": "Zaccaria Pinball - Red Show Table",
+    "release_date": "16 Jun, 2016",
+    "price": 1500,
+    "genres": [
+      "Casual",
+      "Free To Play",
+      "Simulation",
+      "Sports"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1414990,
+    "name": "Quarantine simulator",
+    "release_date": "15 Oct, 2020",
+    "price": 2000,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2799350,
+    "name": "Emperor of the Fading Suns Enhanced",
+    "release_date": "4 Apr, 2025",
+    "price": 6600,
+    "genres": [
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3596050,
+    "name": "Angel Legion-DLC Interstellar Guide D",
+    "release_date": "28 Mar, 2025",
+    "price": null,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Massively Multiplayer",
+      "RPG",
+      "Simulation",
+      "Strategy",
+      "Free To Play"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 793000,
+    "name": "Star-Pit Starship",
+    "release_date": "10 Apr, 2018",
+    "price": 600,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3813350,
+    "name": "Azure Striker Gunvolt Trilogy Enhanced",
+    "release_date": "23 Jul, 2025",
+    "price": 24800,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1777270,
+    "name": "The Godkiller - Chapter 1 Demo",
+    "release_date": "16 Dec, 2021",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 3037840,
+    "name": "USD Clicker: x2",
+    "release_date": "20 Jun, 2024",
+    "price": 1300,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3856080,
+    "name": "Ravenous Horde: Support The Developer",
+    "release_date": "6 Nov, 2025",
+    "price": null,
+    "genres": [
+      "Action"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1737110,
+    "name": "Endeavor: Rite of Passage",
+    "release_date": "13 Jan, 2025",
+    "price": 12500,
+    "genres": [
+      "Indie",
+      "Strategy",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1375363,
+    "name": "Beat Saber - Linkin Park - \"Given Up\"",
+    "release_date": "17 Aug, 2020",
+    "price": 1300,
+    "genres": [
+      "Indie"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3858400,
+    "name": "DeMon Researcher",
+    "release_date": "30 Sep, 2025",
+    "price": null,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1462570,
+    "name": "Lost in Random™",
+    "release_date": "10 Sep, 2021",
+    "price": 3999,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2690300,
+    "name": "War Thunder - M1A1 HC \"Click-Bait\" Pack",
+    "release_date": "14 Dec, 2023",
+    "price": 54900,
+    "genres": [
+      "Action",
+      "Massively Multiplayer",
+      "Simulation",
+      "Free To Play"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1644310,
+    "name": "Markus Ritter - The Lost Family",
+    "release_date": "20 Aug, 2021",
+    "price": null,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Free To Play",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 893680,
+    "name": "Project Warlock",
+    "release_date": "6 Dec, 2018",
+    "price": 7000,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1131670,
+    "name": "Justin Wack and the Big Time Hack",
+    "release_date": "23 Aug, 2022",
+    "price": 8900,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2015360,
+    "name": "Linked Worlds",
+    "release_date": "29 Mar, 2023",
+    "price": 9500,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3067200,
+    "name": "I Wanna Fuck my Mom's Best Friend",
+    "release_date": "9 Aug, 2024",
+    "price": 9800,
+    "genres": [
+      "Casual"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1675732,
+    "name": "Tiger Tank 59 Ⅰ Air Strike MP023",
+    "release_date": "29 Jun, 2021",
+    "price": 2000,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1710530,
+    "name": "Hit Confirmed",
+    "release_date": "12 Aug, 2021",
+    "price": 700,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3549600,
+    "name": "RPG Maker MZ - KR Furniture Store - Modern Suites Tileset",
+    "release_date": "20 Mar, 2025",
+    "price": 6600,
+    "genres": [
+      "RPG",
+      "Design & Illustration",
+      "Education",
+      "Web Publishing",
+      "Game Development"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1354520,
+    "name": "Wild Honesty: A party game for deeper conversations",
+    "release_date": "30 Sep, 2020",
+    "price": 8900,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2742150,
+    "name": "MUZY",
+    "release_date": "13 Feb, 2024",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Free To Play"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3452490,
+    "name": "VR Harem Life DLC - Rimu",
+    "release_date": "18 Apr, 2025",
+    "price": 2600,
+    "genres": [
+      "Simulation"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 360970,
+    "name": "Heaven Forest NIGHTS",
+    "release_date": "14 Mar, 2017",
+    "price": 700,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2282470,
+    "name": "I WILL BE THERE - Original Soundtrack",
+    "release_date": "14 Feb, 2023",
+    "price": 1300,
+    "genres": [
+      "Adventure"
+    ],
+    "type": "music"
+  },
+  {
+    "appid": 1567290,
+    "name": "STORY OF SEASONS: Pioneers of Olive Town - Expansion Pass",
+    "release_date": "15 Sep, 2021",
+    "price": 13125,
+    "genres": [
+      "Casual",
+      "RPG",
+      "Simulation"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1703729,
+    "name": "Tiger Fighter 1931 Tora!Tora!Tora! MP070",
+    "release_date": "12 Sep, 2021",
+    "price": 2000,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3659800,
+    "name": "Inumbra",
+    "release_date": "To be announced",
+    "price": null,
+    "genres": [
+      "Adventure"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3285160,
+    "name": "Go Marbles! Demo",
+    "release_date": "14 Nov, 2024",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Racing",
+      "Simulation"
+    ],
+    "type": "demo"
+  },
+  {
+    "appid": 1185910,
+    "name": "Paunch - Bob Expansion Pack",
+    "release_date": "4 Dec, 2019",
+    "price": 6600,
+    "genres": [
+      "Action",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG",
+      "Sports"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2753290,
+    "name": "Phosfi Demo",
+    "release_date": "20 Jan, 2024",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 523160,
+    "name": "Alice's Patchworks 2",
+    "release_date": "7 Oct, 2016",
+    "price": 9500,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1643190,
+    "name": "Beyond The Gates",
+    "release_date": "22 Jul, 2021",
+    "price": 2800,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 857080,
+    "name": "Escape from the Princess",
+    "release_date": "17 Sep, 2018",
+    "price": 2250,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1921870,
+    "name": "NeoTerra",
+    "release_date": "To be announced",
+    "price": null,
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1452140,
+    "name": "Sloth Tales Soundtrack",
+    "release_date": "30 Oct, 2020",
+    "price": 700,
+    "genres": [],
+    "type": "music"
+  },
+  {
+    "appid": 972400,
+    "name": "Pixel Game Maker MV - Weapon assets (100 varieties) and Dot Robot Set",
+    "release_date": "14 Dec, 2020",
+    "price": 3300,
+    "genres": [
+      "Action",
+      "Design & Illustration"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2732650,
+    "name": "District VR",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1293540,
+    "name": "Outerverse",
+    "release_date": "29 Aug, 2022",
+    "price": 11800,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2330440,
+    "name": "Heck City Delivery",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Racing",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3590870,
+    "name": "Ripley [Remembered]",
+    "release_date": "2026",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2369280,
+    "name": "Cities of the World Jigsaw Puzzles - Amsterdam",
+    "release_date": "5 May, 2023",
+    "price": 700,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1399180,
+    "name": "Lone Wolf: World War 2",
+    "release_date": "11 Jan, 2021",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Free To Play"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2524110,
+    "name": "GGST Season 3 Characters Additional Colors",
+    "release_date": "Aug 24, 2023",
+    "price": 399,
+    "genres": [
+      "Action"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3041880,
+    "name": "CatboyZOOM Demo",
+    "release_date": "14 Jun, 2024",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Racing"
+    ],
+    "type": "demo"
+  },
+  {
+    "appid": 1362170,
+    "name": "FAIRY TAIL: Jellal's Costume \"Dress-Up\"",
+    "release_date": "5 Aug, 2020",
+    "price": 2700,
+    "genres": [
+      "RPG"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2859450,
+    "name": "Find Cats With Friends",
+    "release_date": "14 Mar, 2024",
+    "price": 700,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2621220,
+    "name": "Tile Ruler",
+    "release_date": "20 Oct, 2023",
+    "price": 1300,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1316390,
+    "name": "Thermo Sudoku",
+    "release_date": "25 May, 2020",
+    "price": 2800,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 773630,
+    "name": "Quanero 2 - System Release",
+    "release_date": "25 Jun, 2020",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2731850,
+    "name": "Call of Duty®: Modern Warfare® III - Nova 6 Pro Pack",
+    "release_date": "14 Feb, 2024",
+    "price": 15500,
+    "genres": [
+      "Action"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3526630,
+    "name": "Bilingual Crosswords Demo",
+    "release_date": "23 Feb, 2025",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 1285530,
+    "name": "Eagles Expedition",
+    "release_date": "27 Apr, 2020",
+    "price": 600,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2078145,
+    "name": "Monster Hunter Rise - \"Felyne Fall\" Palico Layered Armor Set",
+    "release_date": "28 Sep, 2022",
+    "price": 1500,
+    "genres": [
+      "Action"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3249820,
+    "name": "The Laziest Person In The World Competition: Animal Companions",
+    "release_date": "8 Oct, 2024",
+    "price": 1300,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Free To Play"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3177070,
+    "name": "Frontline Inferno",
+    "release_date": "18 Nov, 2024",
+    "price": null,
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3568550,
+    "name": "Tainted Pools",
+    "release_date": "14 Jul, 2025",
+    "price": 2600,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3516260,
+    "name": "Wallpaper  Edge：Edge壁纸",
+    "release_date": "6 Jun, 2025",
+    "price": null,
+    "genres": [
+      "Free To Play",
+      "Utilities"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 911760,
+    "name": "Fruit Tower Defense",
+    "release_date": "15 Aug, 2018",
+    "price": 1300,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2435550,
+    "name": "Avalanca - Mythos",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Sports",
+      "Strategy",
+      "Free To Play"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2734030,
+    "name": "Bloodhounds Demo",
+    "release_date": "5 Jan, 2024",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 1743110,
+    "name": "Sidequest",
+    "release_date": "22 Nov, 2021",
+    "price": 5200,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1958130,
+    "name": "The Backrooms: Found Footage",
+    "release_date": "3 Jul, 2022",
+    "price": 4600,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1434190,
+    "name": "Fantasy Grounds - Pathfinder RPG - Chronicles: The Great Beyond - A Guide to the Multiverse",
+    "release_date": "25 May, 2021",
+    "price": 8900,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3921690,
+    "name": "Last Card Dungeon",
+    "release_date": "To be announced",
+    "price": null,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3413070,
+    "name": "Space Defense Special Force - The Origin of Union",
+    "release_date": "19 Dec, 2024",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 880330,
+    "name": "Last Byte Standing",
+    "release_date": "30 Jul, 2018",
+    "price": 7600,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3696700,
+    "name": "Kickback Clicker",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 259510,
+    "name": "Shufflepuck Cantina Deluxe",
+    "release_date": "6 Dec, 2013",
+    "price": 5200,
+    "genres": [
+      "Action",
+      "Indie",
+      "Sports"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2681030,
+    "name": "Outbound",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3078360,
+    "name": "The Dark Book 2 Demo",
+    "release_date": "8 Jul, 2024",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "type": "demo"
+  },
+  {
+    "appid": 1626120,
+    "name": "Last Dream II",
+    "release_date": "To be announced",
+    "price": null,
+    "genres": [
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 751070,
+    "name": "Pixel Stories of Dungeon Demo",
+    "release_date": "15 Nov, 2017",
+    "price": null,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "type": "demo"
+  },
+  {
+    "appid": 3448800,
+    "name": "Omega",
+    "release_date": "5 Feb, 2025",
+    "price": 3300,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3570490,
+    "name": "Frontier: Path of Shadows",
+    "release_date": "Q2 2026",
+    "price": null,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3564790,
+    "name": "Courage Gauntlet Challenge",
+    "release_date": "Q3 2025",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1841100,
+    "name": "Idle Sand Castle",
+    "release_date": "24 Jan, 2022",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Free To Play"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2728130,
+    "name": "Annihilation",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Action"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1723750,
+    "name": "BarginToWin",
+    "release_date": "1 Sep, 2022",
+    "price": 1200,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 360090,
+    "name": "Fantasy Grounds - D&D Player's Handbook",
+    "release_date": "7 Apr, 2015",
+    "price": 17800,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1749250,
+    "name": "Fantasy Match Puzzle - Expansion Pack",
+    "release_date": "19 Sep, 2021",
+    "price": 700,
+    "genres": [
+      "Casual",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 650048,
+    "name": "Amnesia Fortnight: AF 2014 - Bonus - Tim and Pen Ward Interview",
+    "release_date": "2 Aug, 2017",
+    "price": null,
+    "genres": [],
+    "type": "episode"
+  },
+  {
+    "appid": 3091240,
+    "name": "UNPKF",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1557750,
+    "name": "Rolling Hamster Soundtrack + Wallpaper",
+    "release_date": "24 Mar, 2021",
+    "price": 1300,
+    "genres": [],
+    "type": "music"
+  },
+  {
+    "appid": 774531,
+    "name": "Snail Trek - Chapter 4: The Final Fondue",
+    "release_date": "29 Mar, 2018",
+    "price": 600,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1343810,
+    "name": "Fallen Hero: Retribution",
+    "release_date": "2 Feb, 2023",
+    "price": 7800,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 428270,
+    "name": "Twilight City: Love as a Cure",
+    "release_date": "18 Dec, 2015",
+    "price": 4600,
+    "genres": [
+      "Adventure",
+      "Casual"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 656020,
+    "name": "Beta Runner",
+    "release_date": "25 Jul, 2017",
+    "price": null,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 922940,
+    "name": "Navyblue &amp; the Spectrum Killers Demo",
+    "release_date": "14 Aug, 2018",
+    "price": null,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "demo"
+  },
+  {
+    "appid": 865800,
+    "name": "Octo Gravity",
+    "release_date": "3 Jul, 2018",
+    "price": 700,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2798430,
+    "name": "Wittle Mistakes - Prologue",
+    "release_date": "13 Nov, 2024",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Free To Play"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1806144,
+    "name": "3 Minute Heroes - Lifeguard (Paladin Skin)",
+    "release_date": "4 Nov, 2021",
+    "price": 1200,
+    "genres": [
+      "Strategy"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3928440,
+    "name": "The Cave Diver Demo",
+    "release_date": "26 Aug, 2025",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "type": "demo"
+  },
+  {
+    "appid": 2457500,
+    "name": "Ophelia's Chapter",
+    "release_date": "To be announced",
+    "price": null,
+    "genres": [
+      "Adventure"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1749350,
+    "name": "Gobby McGobblenutz Presents: The Art of the Dad Joke: Chapter 1",
+    "release_date": "15 Nov, 2021",
+    "price": 1300,
+    "genres": [
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 486000,
+    "name": "Attack on Titan - Mikasa Costume - Summer Festival",
+    "release_date": "20 Dec, 2016",
+    "price": null,
+    "genres": [
+      "Action"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2204460,
+    "name": "Attack on King: Reloaded Playtest",
+    "release_date": "13 Nov, 2022",
+    "price": null,
+    "genres": [],
+    "type": "game"
+  },
+  {
+    "appid": 1938452,
+    "name": "SD GUNDAM BATTLE ALLIANCE Unit and Scenario Pack 1: Legend & Succession",
+    "release_date": "7 Sep, 2022",
+    "price": 8900,
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1371000,
+    "name": "AnotherOne",
+    "release_date": "25 Nov, 2020",
+    "price": 1800,
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1787420,
+    "name": "The mystery of the planet venus",
+    "release_date": "4 Nov, 2021",
+    "price": 1300,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3743150,
+    "name": "ORMS",
+    "release_date": "Q2 2026",
+    "price": null,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1021170,
+    "name": "Alien Arena - Map Pack 4",
+    "release_date": "28 Jan, 2019",
+    "price": null,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3490390,
+    "name": "Sandustry Demo",
+    "release_date": "31 Jan, 2025",
+    "price": null,
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "type": "demo"
+  },
+  {
+    "appid": 2779570,
+    "name": "Archons",
+    "release_date": "6 Dec, 2024",
+    "price": 6800,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2512640,
+    "name": "Operation Octo Demo",
+    "release_date": "21 Jul, 2023",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 3119710,
+    "name": "Impious",
+    "release_date": "2025",
+    "price": null,
+    "genres": [
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1070603,
+    "name": "SENRAN KAGURA Reflexions - Yomi Reflexions Course & 12-Outfit Set",
+    "release_date": "24 Jun, 2019",
+    "price": 7200,
+    "genres": [
+      "Adventure",
+      "Simulation"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1435550,
+    "name": "Experience x3 - Crystal Ortha",
+    "release_date": "5 Nov, 2020",
+    "price": 2800,
+    "genres": [
+      "RPG"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3409030,
+    "name": "RPG Maker VX Ace - Rogue Adventure - Otherworld Tileset",
+    "release_date": "16 Jan, 2025",
+    "price": 7800,
+    "genres": [
+      "Adventure",
+      "RPG",
+      "Design & Illustration",
+      "Education",
+      "Web Publishing",
+      "Game Development"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1037120,
+    "name": "Mutropolis",
+    "release_date": "18 Feb, 2021",
+    "price": 12500,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 673400,
+    "name": "Home Architect - Design your floor plans in 3D",
+    "release_date": "25 Oct, 2017",
+    "price": 21800,
+    "genres": [
+      "Design & Illustration"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1529430,
+    "name": "Panic Mode",
+    "release_date": "9 Jul, 2021",
+    "price": 5200,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1188460,
+    "name": "Gravity Escape",
+    "release_date": "8 Sep, 2024",
+    "price": 4600,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2172020,
+    "name": "Dreamcutter Demo",
+    "release_date": "16 Oct, 2022",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 2416490,
+    "name": "Legends of Savvarah: Children of the Sun",
+    "release_date": "23 Jan, 2025",
+    "price": 5200,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2136170,
+    "name": "To The Top",
+    "release_date": "7 Oct, 2022",
+    "price": 2300,
+    "genres": [
+      "Action"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 365530,
+    "name": "GameGuru - Fantasy Pack",
+    "release_date": "19 May, 2015",
+    "price": 18700,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 704710,
+    "name": "Cuphead - Official Soundtrack",
+    "release_date": "29 Sep, 2017",
+    "price": 7500,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "music"
+  },
+  {
+    "appid": 1102060,
+    "name": "Gun Blaze",
+    "release_date": "15 Oct, 2019",
+    "price": 3500,
+    "genres": [
+      "Action",
+      "Indie",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 845970,
+    "name": "Trivia Vault: Movie Trivia",
+    "release_date": "27 Apr, 2018",
+    "price": 8900,
+    "genres": [
+      "Action",
+      "Casual",
+      "Simulation",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1010820,
+    "name": "Barony: Myths & Outcasts",
+    "release_date": "22 Feb, 2019",
+    "price": 2600,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1785400,
+    "name": "Nine Card Isle",
+    "release_date": "To be announced",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1921450,
+    "name": "Quoin",
+    "release_date": "2 Oct, 2022",
+    "price": 1800,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1812280,
+    "name": "Cave Story's Secret Santa",
+    "release_date": "9 Dec, 2021",
+    "price": null,
+    "genres": [
+      "Adventure"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2209880,
+    "name": "Nightmare Inside",
+    "release_date": "28 Nov, 2022",
+    "price": 2600,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2753420,
+    "name": "Starlight Scouts",
+    "release_date": "16 Jan, 2024",
+    "price": 700,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Racing",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2799040,
+    "name": "Cubic Enigma",
+    "release_date": "25 Apr, 2024",
+    "price": 1319,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 697430,
+    "name": "Differently Fast",
+    "release_date": "6 Sep, 2019",
+    "price": 7600,
+    "genres": [
+      "Indie",
+      "Racing",
+      "Simulation",
+      "Sports",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2228240,
+    "name": "Sackboy™: A Big Adventure - Emote Pack",
+    "release_date": "9 Dec, 2022",
+    "price": null,
+    "genres": [
+      "Adventure"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3013730,
+    "name": "Risimon Demo",
+    "release_date": "21 Feb, 2025",
+    "price": null,
+    "genres": [
+      "Adventure",
+      "RPG"
+    ],
+    "type": "demo"
+  },
+  {
+    "appid": 968840,
+    "name": "LET IT DIE -(Black Friday 2018)Special pack-",
+    "release_date": "14 Nov, 2018",
+    "price": 5200,
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1719180,
+    "name": "Gobby McGobblenutz Presents - The Questionably Quirky Quiz Show",
+    "release_date": "4 Oct, 2021",
+    "price": 1300,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3466760,
+    "name": "MX vs ATV Legends - GASGAS Pack 2025",
+    "release_date": "15 Jul, 2025",
+    "price": 3900,
+    "genres": [
+      "Racing",
+      "Sports"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2523650,
+    "name": "Ninpaw",
+    "release_date": "12 Apr, 2025",
+    "price": 3900,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 457370,
+    "name": "Alexa's Wild Night",
+    "release_date": "13 Dec, 2017",
+    "price": 3300,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2206820,
+    "name": "Tokyo Pinball",
+    "release_date": "7 Jun, 2023",
+    "price": 2000,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3671960,
+    "name": "Skogdal Soundtrack",
+    "release_date": "28 Apr, 2025",
+    "price": 5800,
+    "genres": [],
+    "type": "music"
+  },
+  {
+    "appid": 1765600,
+    "name": "The Song Out of Space",
+    "release_date": "4 Feb, 2022",
+    "price": 3300,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3023270,
+    "name": "The End",
+    "release_date": "9 Jul, 2024",
+    "price": 700,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3937670,
+    "name": "Fantasy Grounds - Treasury of the Crusade",
+    "release_date": "9 Sep, 2025",
+    "price": 3900,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3052910,
+    "name": "My Sudoku - Classic 4x4 Easy 5",
+    "release_date": "24 Jun, 2024",
+    "price": 600,
+    "genres": [
+      "Casual",
+      "Strategy",
+      "Free To Play"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 410740,
+    "name": "Flying Neko Delivery",
+    "release_date": "20 Oct, 2022",
+    "price": 8900,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3097860,
+    "name": "约会普拉斯 Date Plus",
+    "release_date": "2025",
+    "price": null,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2462280,
+    "name": "Game Master Engine - Gemstone Dice Pack",
+    "release_date": "15 Sep, 2023",
+    "price": 1650,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Free To Play"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3225800,
+    "name": "Abdicate",
+    "release_date": "11 Oct, 2024",
+    "price": 24800,
+    "genres": [
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1296580,
+    "name": "Finger Guessing King",
+    "release_date": "21 Oct, 2020",
+    "price": 700,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1291620,
+    "name": "Virus Popper Soundtrack",
+    "release_date": "23 May, 2020",
+    "price": 1800,
+    "genres": [],
+    "type": "music"
+  },
+  {
+    "appid": 1678700,
+    "name": "CarsFuckingDragons",
+    "release_date": "1 Oct, 2021",
+    "price": 3300,
+    "genres": [
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3093400,
+    "name": "Knightica",
+    "release_date": "21 Aug, 2025",
+    "price": 9500,
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3184760,
+    "name": "Five Nights at Restroom 2: A Hellish Week",
+    "release_date": "8 Dec, 2024",
+    "price": 1300,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3874620,
+    "name": "Party Me",
+    "release_date": "Q4 2025",
+    "price": null,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3567310,
+    "name": "CORPSE CARNIVAL Playtest",
+    "release_date": "26 Mar, 2025",
+    "price": null,
+    "genres": [],
+    "type": "game"
+  },
+  {
+    "appid": 3244790,
+    "name": "Sojourn Past Demo",
+    "release_date": "28 Sep, 2024",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 938340,
+    "name": "The Necklace Of Blood Part II",
+    "release_date": "28 Sep, 2018",
+    "price": 2600,
+    "genres": [
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 360092,
+    "name": "Fantasy Grounds - D&D Barbarian Class Pack",
+    "release_date": "7 Apr, 2015",
+    "price": 2800,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3172190,
+    "name": "Sexuality with girlfriends : Kello&Cammy",
+    "release_date": "10 Jan, 2025",
+    "price": 2900,
+    "genres": [
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1309020,
+    "name": "Colormeleons - GoldEdition",
+    "release_date": "11 May, 2020",
+    "price": 1300,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2745640,
+    "name": "《未解之谜2：桥师》 Demo",
+    "release_date": "21 Dec, 2023",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 3363270,
+    "name": "Fischer's Fishing Journey",
+    "release_date": "7 Aug, 2025",
+    "price": 5200,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3268240,
+    "name": "Funko Fusion - Hazel & Cha Cha",
+    "release_date": "6 Dec, 2024",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Free To Play"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3334220,
+    "name": "Deadly Chance",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1140510,
+    "name": "Fantasy Gladiators",
+    "release_date": "27 Aug, 2019",
+    "price": null,
+    "genres": [
+      "Free To Play",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 526780,
+    "name": "Jumper Jape",
+    "release_date": "17 Nov, 2016",
+    "price": 1300,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2138240,
+    "name": "Chronicles of cyberpunk - Lost dream",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Adventure"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2797270,
+    "name": "Rocklings Demo",
+    "release_date": "16 Feb, 2024",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 922230,
+    "name": "Antirocketh - Original Soundtrack",
+    "release_date": "16 Aug, 2018",
+    "price": 600,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1692190,
+    "name": "MOBILE SUIT GUNDAM BATTLE OPERATION 2　 Network Test",
+    "release_date": "30 Mar, 2023",
+    "price": null,
+    "genres": [],
+    "type": "game"
+  },
+  {
+    "appid": 3224860,
+    "name": "Express Car Wash Simulator Demo",
+    "release_date": "September 2025",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 2742310,
+    "name": "Apex Heroines - Game Orange 电玩甜橙",
+    "release_date": "18 Jan, 2024",
+    "price": 2000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1752080,
+    "name": "HUNGER",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Action",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3525230,
+    "name": "Attack Hole: Monsters",
+    "release_date": "11 Apr, 2025",
+    "price": 1300,
+    "genres": [
+      "Action",
+      "Casual"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2025340,
+    "name": "GALXAGAR",
+    "release_date": "19 Aug, 2022",
+    "price": 1200,
+    "genres": [
+      "Action"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 295178,
+    "name": "BR Blue/Grey Class 121 Add-On Livery",
+    "release_date": "21 Jan, 2015",
+    "price": 3900,
+    "genres": [
+      "Simulation"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2715370,
+    "name": "Ancient Cultivatrix",
+    "release_date": "13 Feb, 2025",
+    "price": 4800,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2431403,
+    "name": "Zombie Hunter: D-Day - SS-ranked Weapon \"JACKHAMMER\"",
+    "release_date": "26 Jul, 2023",
+    "price": 1800,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1199740,
+    "name": "Piñata Attack",
+    "release_date": "3 Feb, 2020",
+    "price": 2300,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3804830,
+    "name": "Lonelight Playtest",
+    "release_date": "11 Jun, 2025",
+    "price": null,
+    "genres": [],
+    "type": "game"
+  },
+  {
+    "appid": 3708940,
+    "name": "Palia - Founders Pack",
+    "release_date": "12 May, 2025",
+    "price": 19900,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Free To Play"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 463110,
+    "name": "Farnham Fables",
+    "release_date": "20 Jun, 2016",
+    "price": 700,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1628253,
+    "name": "RiMS Racing: Nolan X-LITE Helmets",
+    "release_date": "19 Aug, 2021",
+    "price": 1300,
+    "genres": [
+      "Racing",
+      "Simulation",
+      "Sports"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1970530,
+    "name": "Long Journey",
+    "release_date": "13 May, 2022",
+    "price": 3500,
+    "genres": [
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2111760,
+    "name": "PARADISE CLEANING - pregnant ogre -",
+    "release_date": "26 Aug, 2022",
+    "price": 600,
+    "genres": [
+      "Action",
+      "Casual"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2217404,
+    "name": "Arcade Paradise - Vostok Inc. Pinball",
+    "release_date": "18 May, 2023",
+    "price": 1040,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 869290,
+    "name": "Don't Look Down",
+    "release_date": "18 Apr, 2019",
+    "price": 7600,
+    "genres": [
+      "Action",
+      "Indie",
+      "Racing"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2493430,
+    "name": "Haikuna",
+    "release_date": "18 Jan, 2024",
+    "price": 700,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 693500,
+    "name": "Castle Demolition VR",
+    "release_date": "1 Sep, 2017",
+    "price": 600,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2959640,
+    "name": "終わりの森 -Forest of soul slave-",
+    "release_date": "22 Nov, 2024",
+    "price": 10000,
+    "genres": [
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1973870,
+    "name": "Goonya Monster - Soul Coin & Soul Gem for Digital DX",
+    "release_date": "10 Dec, 2022",
+    "price": null,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3879230,
+    "name": "Midnight Study Demo",
+    "release_date": "22 Aug, 2025",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 2977750,
+    "name": "Vague Lizards Soundtrack",
+    "release_date": "29 May, 2024",
+    "price": 2600,
+    "genres": [],
+    "type": "music"
+  },
+  {
+    "appid": 3951070,
+    "name": "Drakengard Original Soundtrack Re-release",
+    "release_date": "10 Sep, 2025",
+    "price": 9520,
+    "genres": [],
+    "type": "music"
+  },
+  {
+    "appid": 1266740,
+    "name": "Vampire: The Masquerade - Coteries of New York Soundtrack",
+    "release_date": "24 Mar, 2020",
+    "price": 2300,
+    "genres": [],
+    "type": "music"
+  },
+  {
+    "appid": 2066670,
+    "name": "伽尔兰特：我的冒险故事 Demo",
+    "release_date": "19 Jun, 2023",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 3353380,
+    "name": "Dead by Skill Check",
+    "release_date": "3 Dec, 2024",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Free To Play",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2913160,
+    "name": "Trainz 2022 DLC - Swayfield Branch",
+    "release_date": "10 Apr, 2024",
+    "price": 9500,
+    "genres": [
+      "Simulation"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2840820,
+    "name": "Anima Shin Gun",
+    "release_date": "Q4 2026",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2696770,
+    "name": "Purrs in Heaven",
+    "release_date": "7 Feb, 2024",
+    "price": 5800,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1016900,
+    "name": "GUN AND BUCKLER",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3143490,
+    "name": "My Sleeper",
+    "release_date": "Q4 2025",
+    "price": null,
+    "genres": [
+      "Indie",
+      "Racing",
+      "Simulation",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3072050,
+    "name": "Mesektet",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1056750,
+    "name": "Shera and the Three Treasures",
+    "release_date": "13 Dec, 2019",
+    "price": 7600,
+    "genres": [
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2556050,
+    "name": "Astral Quester",
+    "release_date": "23 Jan, 2024",
+    "price": null,
+    "genres": [
+      "Adventure",
+      "RPG",
+      "Strategy",
+      "Free To Play"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2205650,
+    "name": "VR Hourse Racing Sweetie",
+    "release_date": "20 Dec, 2022",
+    "price": 860,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "RPG",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3024580,
+    "name": "Dead by Daylight - Tomb Raider Chapter",
+    "release_date": "16 Jul, 2024",
+    "price": 3000,
+    "genres": [
+      "Action"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3891580,
+    "name": "Pocket Spouse",
+    "release_date": "11 Sep, 2025",
+    "price": null,
+    "genres": [
+      "RPG",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 840630,
+    "name": "Fantasy Grounds - Sci-fi Species Vol 1 (Token Pack)",
+    "release_date": "11 Apr, 2018",
+    "price": 4500,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1430340,
+    "name": "Vocal Space Shooter",
+    "release_date": "13 Nov, 2020",
+    "price": 600,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1218880,
+    "name": "AudioWizards Soundtrack",
+    "release_date": "24 Jan, 2020",
+    "price": 2800,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "type": "music"
+  },
+  {
+    "appid": 3636420,
+    "name": "Make your Move",
+    "release_date": "2026",
+    "price": null,
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1883521,
+    "name": "Offside R  18+ Adults Only Patch",
+    "release_date": "26 Jan, 2022",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Simulation",
+      "Sports"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2262820,
+    "name": "永生之庭",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2719270,
+    "name": "Last Caveman",
+    "release_date": "16 Dec, 2023",
+    "price": 8300,
+    "genres": [
+      "Casual",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1680173,
+    "name": "Tiger Tank 59 Ⅰ Battleship MP084",
+    "release_date": "1 Jul, 2021",
+    "price": 2000,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3959060,
+    "name": "Sign Off \"Upgrade\" DLC",
+    "release_date": "21 Aug, 2025",
+    "price": 2600,
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3503770,
+    "name": "Meatmare",
+    "release_date": "To be announced",
+    "price": null,
+    "genres": [
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1612710,
+    "name": "SAMURAI SHODOWN - DLC CHARACTER \"WAN-FU\"",
+    "release_date": "14 Jun, 2021",
+    "price": null,
+    "genres": [
+      "Action"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1730820,
+    "name": "FamilyWorldRoam",
+    "release_date": "10 Sep, 2021",
+    "price": 700,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3596290,
+    "name": "Apes Warfare Demo",
+    "release_date": "20 Apr, 2025",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 899820,
+    "name": "Rocksmith® 2014 Edition – Remastered – Paramore - “Rose-Colored Boy”",
+    "release_date": "15 Jan, 2019",
+    "price": 1800,
+    "genres": [
+      "Casual",
+      "Simulation"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2664000,
+    "name": "Rose Playtest",
+    "release_date": "25 Oct, 2023",
+    "price": null,
+    "genres": [],
+    "type": "game"
+  },
+  {
+    "appid": 3789880,
+    "name": "Ice Cream Typer",
+    "release_date": "24 Jun, 2025",
+    "price": null,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Free To Play"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 403940,
+    "name": "Dungelot: Shattered Lands",
+    "release_date": "18 Feb, 2016",
+    "price": 6600,
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3088550,
+    "name": "Hot And Lovely XXII",
+    "release_date": "15 Nov, 2024",
+    "price": 2900,
+    "genres": [
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2251240,
+    "name": "Police Car Simulator",
+    "release_date": "29 Dec, 2022",
+    "price": 350,
+    "genres": [
+      "Action",
+      "Indie",
+      "Racing",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3954420,
+    "name": "Bleaklight Falls Demo",
+    "release_date": "27 Aug, 2025",
+    "price": null,
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "type": "demo"
+  },
+  {
+    "appid": 2899720,
+    "name": "6年1組",
+    "release_date": "10 Apr, 2024",
+    "price": 1300,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1071320,
+    "name": "Isle of the Dead",
+    "release_date": "19 Jun, 2019",
+    "price": 1800,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3408320,
+    "name": "Frostbite",
+    "release_date": "20 Jan, 2025",
+    "price": 2000,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1833990,
+    "name": "HUMANKIND™ - Together We Rule Expansion Pack",
+    "release_date": "9 Nov, 2022",
+    "price": 12800,
+    "genres": [
+      "Strategy"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1291040,
+    "name": "Fantasy Grounds - Devin Night TP120 Scifi Characters 2",
+    "release_date": "21 Apr, 2020",
+    "price": 2800,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 277170,
+    "name": "Web Designer 10",
+    "release_date": "13 Aug, 2014",
+    "price": null,
+    "genres": [],
+    "type": "advertising"
+  },
+  {
+    "appid": 2397390,
+    "name": "Missile Collector Man Demo",
+    "release_date": "19 May, 2023",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 3013280,
+    "name": "Table Top Creature Tracker",
+    "release_date": "22 May, 2025",
+    "price": 3300,
+    "genres": [
+      "Utilities"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2684310,
+    "name": "Dangerous FightCIA",
+    "release_date": "1 Mar, 2024",
+    "price": 3900,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Massively Multiplayer"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1498400,
+    "name": "Jigsaw Puzzle - Pixel Art Master",
+    "release_date": "28 Dec, 2020",
+    "price": 1300,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2588820,
+    "name": "Asteroids Star Fields",
+    "release_date": "25 Sep, 2023",
+    "price": 3900,
+    "genres": [
+      "Action",
+      "Casual"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3814080,
+    "name": "RAGING BILL Demo",
+    "release_date": "18 Jun, 2025",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Racing"
+    ],
+    "type": "demo"
+  },
+  {
+    "appid": 970200,
+    "name": "Campido",
+    "release_date": "18 Nov, 2018",
+    "price": 2800,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3966440,
+    "name": "Monstrix: TCG Card Shop Demo",
+    "release_date": "2025",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "demo"
+  },
+  {
+    "appid": 3309840,
+    "name": "WARNO - Reinforcement Pack #3 - Stoneware",
+    "release_date": "30 Oct, 2024",
+    "price": null,
+    "genres": [
+      "Action",
+      "Indie",
+      "Simulation",
+      "Strategy",
+      "Free To Play"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 868370,
+    "name": "Lost Tales - The Castle Escape",
+    "release_date": "12 Jul, 2019",
+    "price": 2800,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2292940,
+    "name": "Multiplayer Werewolves",
+    "release_date": "7 Feb, 2023",
+    "price": 490,
+    "genres": [
+      "Massively Multiplayer"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1246500,
+    "name": "Stone Story RPG Soundtrack",
+    "release_date": "14 Feb, 2020",
+    "price": 6600,
+    "genres": [],
+    "type": "music"
+  },
+  {
+    "appid": 3447420,
+    "name": "Marble Run Maker",
+    "release_date": "2026",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 841690,
+    "name": "Night of Something Strange",
+    "release_date": "7 May, 2018",
+    "price": null,
+    "genres": [
+      "Movie"
+    ],
+    "type": "video"
+  },
+  {
+    "appid": 2603160,
+    "name": "SUPER 56 Soundtrack",
+    "release_date": "21 Nov, 2023",
+    "price": 1300,
+    "genres": [],
+    "type": "music"
+  },
+  {
+    "appid": 3021640,
+    "name": "Void Scavengers",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3272360,
+    "name": "Decade",
+    "release_date": "27 May, 2025",
+    "price": 5280,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1659530,
+    "name": "Party Demon",
+    "release_date": "25 Apr, 2025",
+    "price": 2600,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3666200,
+    "name": "Quantum Resonance",
+    "release_date": "26 Jun, 2025",
+    "price": 2000,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1195250,
+    "name": "Gateball VR",
+    "release_date": "4 Jun, 2020",
+    "price": 600,
+    "genres": [
+      "Sports"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 382190,
+    "name": "Sumo Revise OST",
+    "release_date": "25 Jun, 2015",
+    "price": 1500,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "music"
+  },
+  {
+    "appid": 2504300,
+    "name": "Farming Fever - Apprentice Pack",
+    "release_date": "20 Jul, 2023",
+    "price": 4600,
+    "genres": [
+      "Casual",
+      "Simulation"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 652070,
+    "name": "Bump+Smack",
+    "release_date": "8 Aug, 2017",
+    "price": 600,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 982400,
+    "name": "赫炎的印加诺克 Fullvoice ReBORN",
+    "release_date": "14 Mar, 2019",
+    "price": 5800,
+    "genres": [
+      "Adventure"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1229690,
+    "name": "Fantasy Grounds - Devin Night TP131: Steampunk Rats",
+    "release_date": "7 Apr, 2020",
+    "price": 2800,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1272660,
+    "name": "Gan's Matchstick Men：Deadly Rhythm",
+    "release_date": "27 Jun, 2020",
+    "price": 1200,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3820000,
+    "name": "BOT.VINNIK Chess Masters Academy",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3748030,
+    "name": "Internet Entrepreneurship Simulator Demo",
+    "release_date": "5 Jun, 2025",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "type": "demo"
+  },
+  {
+    "appid": 1526010,
+    "name": "Panzer Corps 2: Axis Operations - 1941",
+    "release_date": "18 Mar, 2021",
+    "price": 6600,
+    "genres": [
+      "Strategy"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 432170,
+    "name": "Silver Knight",
+    "release_date": "15 Jan, 2016",
+    "price": 600,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 531170,
+    "name": "DEAD OR ALIVE 5 Last Round: Core Fighters Character: Brad Wong",
+    "release_date": "3 Oct, 2016",
+    "price": 3000,
+    "genres": [
+      "Action"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 726460,
+    "name": "Choice of Broadsides",
+    "release_date": "19 Oct, 2017",
+    "price": 2800,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 4010990,
+    "name": "The Smoke Playtest",
+    "release_date": "10 Sep, 2025",
+    "price": null,
+    "genres": [],
+    "type": "game"
+  },
+  {
+    "appid": 540410,
+    "name": "Queendoom",
+    "release_date": "10 Nov, 2016",
+    "price": 1125,
+    "genres": [
+      "Action"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3454670,
+    "name": "Planet of the Ants",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Action",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3717410,
+    "name": "Dino Path Trail - Artbook",
+    "release_date": "9 May, 2025",
+    "price": 2000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 782690,
+    "name": "Gazing from beyond",
+    "release_date": "7 Feb, 2018",
+    "price": 1200,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1510980,
+    "name": "灵魂筹码 - 招娣“荒野猎手”套装",
+    "release_date": "30 Dec, 2020",
+    "price": 5800,
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3564500,
+    "name": "Lambda Fortress",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "type": "mod"
+  },
+  {
+    "appid": 2148434,
+    "name": "SAMURAI MAIDEN - Extra BGM: Kotonohanisaku (Komimi Ver.)",
+    "release_date": "8 Dec, 2022",
+    "price": 900,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1862410,
+    "name": "Fantasy Grounds - D&D Classics: R1 To the Aid of Falx",
+    "release_date": "22 Mar, 2022",
+    "price": 5200,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 354140,
+    "name": "Five Nights at Freddy's 3",
+    "release_date": "2 Mar, 2015",
+    "price": 4500,
+    "genres": [
+      "Action",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3322790,
+    "name": "Easy View",
+    "release_date": "3 Apr, 2025",
+    "price": 6600,
+    "genres": [
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2078901,
+    "name": "6Braves [1320 Diamonds Bag]",
+    "release_date": "28 Aug, 2022",
+    "price": 1800,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2144530,
+    "name": "No Random Novels",
+    "release_date": "17 Nov, 2022",
+    "price": 18700,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3632620,
+    "name": "Hentai Pair - Beach Love DLC",
+    "release_date": "25 May, 2025",
+    "price": 350,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3444930,
+    "name": "Sea of Thieves: 2025 Deluxe Bundle",
+    "release_date": "20 Mar, 2025",
+    "price": 34900,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 668200,
+    "name": "Four Horsemen",
+    "release_date": "1 Sep, 2017",
+    "price": 7600,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1752180,
+    "name": "Filcher Demo",
+    "release_date": "14 Sep, 2021",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 1499550,
+    "name": "VR Luxury Life (Be a Billionaire)",
+    "release_date": "29 Dec, 2020",
+    "price": 2800,
+    "genres": [
+      "Casual",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1956410,
+    "name": "enJoyTyping",
+    "release_date": "27 May, 2022",
+    "price": null,
+    "genres": [
+      "Free To Play",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2376080,
+    "name": "Danse Macabre AI Text RPG",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1906890,
+    "name": "Jump Like An Egyptian",
+    "release_date": "25 Feb, 2022",
+    "price": 1200,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Racing",
+      "Sports"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1083190,
+    "name": "Disc Creatures",
+    "release_date": "17 Oct, 2019",
+    "price": 9500,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2877640,
+    "name": "Super Onion Boy+",
+    "release_date": "31 May, 2024",
+    "price": 2600,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1699260,
+    "name": "Atlas Wept",
+    "release_date": "16 Jan, 2024",
+    "price": 5200,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3631440,
+    "name": "Infected Towns",
+    "release_date": "2025",
+    "price": null,
+    "genres": [
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1111280,
+    "name": "9 Games, 2 Buttons",
+    "release_date": "3 Mar, 2025",
+    "price": null,
+    "genres": [
+      "Action",
+      "Indie",
+      "Free To Play"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3673770,
+    "name": "Vermilion Arcade - Horror Collection Demo",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 1408670,
+    "name": "Orb and the Stars Demo",
+    "release_date": "7 Oct, 2020",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 1587460,
+    "name": "The Rocket Stop Incident",
+    "release_date": "To be announced",
+    "price": null,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1690130,
+    "name": "Trainz 2019 DLC - Victorian Railways V class FL Black",
+    "release_date": "22 Jul, 2021",
+    "price": 6600,
+    "genres": [
+      "Simulation"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2926700,
+    "name": "Presidential Rise",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3391110,
+    "name": "最強宗師",
+    "release_date": "31 Jan, 2025",
+    "price": null,
+    "genres": [
+      "Massively Multiplayer",
+      "Simulation",
+      "Strategy",
+      "Free To Play"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1235721,
+    "name": "The Sims™ 4 Cats & Dogs",
+    "release_date": "18 Jun, 2020",
+    "price": 27900,
+    "genres": [
+      "Casual",
+      "Simulation"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1892670,
+    "name": "Coins, Chests and Loot",
+    "release_date": "17 Feb, 2022",
+    "price": 1200,
+    "genres": [
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1612090,
+    "name": "Riftnote Playtest",
+    "release_date": "22 Apr, 2021",
+    "price": null,
+    "genres": [],
+    "type": "game"
+  },
+  {
+    "appid": 2824440,
+    "name": "Looking For Cats In a Badly Drawn Forest – Extra Content",
+    "release_date": "8 Feb, 2024",
+    "price": 700,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Free To Play"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2419910,
+    "name": "Apartament 1406: Horror Demo",
+    "release_date": "25 Aug, 2023",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "type": "demo"
+  },
+  {
+    "appid": 992890,
+    "name": "Tank raid",
+    "release_date": "18 Dec, 2018",
+    "price": 700,
+    "genres": [
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2159060,
+    "name": "Big Adventure: Trip to Europe 3 - Collector's Edition",
+    "release_date": "16 Oct, 2022",
+    "price": 3300,
+    "genres": [
+      "Casual"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1838160,
+    "name": "深暗森林 Deep Dark Forest Demo",
+    "release_date": "19 Feb, 2022",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 1800210,
+    "name": "FUN Platformer  DLC 2",
+    "release_date": "14 Nov, 2021",
+    "price": 4500,
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2395690,
+    "name": "Hentai Casual Jigsaw - Zombies",
+    "release_date": "17 May, 2024",
+    "price": 700,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2144761,
+    "name": "Generation Zero® - Motorbikes Pack",
+    "release_date": "25 Oct, 2022",
+    "price": 3800,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3281650,
+    "name": "Louis",
+    "release_date": "24 Aug, 2025",
+    "price": 2000,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3106070,
+    "name": "How Can a Joker Like Me Play Cards with a Beautiful Girl",
+    "release_date": "31 Oct, 2024",
+    "price": 2000,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2327130,
+    "name": "Xenon-Runner",
+    "release_date": "27 Apr, 2023",
+    "price": null,
+    "genres": [
+      "Racing"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3508910,
+    "name": "Abyss Kitchen",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1406790,
+    "name": "Evil Icebox Demo",
+    "release_date": "26 Aug, 2020",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 3168240,
+    "name": "Frame Data: Mech Arena",
+    "release_date": "To be announced",
+    "price": null,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 397350,
+    "name": "Lords of the Realm II",
+    "release_date": "3 Dec, 2015",
+    "price": 2000,
+    "genres": [
+      "RPG",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3199180,
+    "name": "Steel Swarm: APOCALYPSE",
+    "release_date": "24 Jun, 2025",
+    "price": null,
+    "genres": [
+      "RPG",
+      "Simulation",
+      "Strategy",
+      "Free To Play",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1733500,
+    "name": "Looking for Aliens",
+    "release_date": "8 Dec, 2021",
+    "price": 5200,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 962160,
+    "name": "The Glass Coffin",
+    "release_date": "15 Oct, 2018",
+    "price": null,
+    "genres": [
+      "Movie"
+    ],
+    "type": "video"
+  },
+  {
+    "appid": 664180,
+    "name": "Draw Puzzle 画之谜",
+    "release_date": "4 Aug, 2017",
+    "price": 3900,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2388930,
+    "name": "Nox Archaist: Lord of Storms",
+    "release_date": "1 May, 2023",
+    "price": 5200,
+    "genres": [
+      "Adventure",
+      "RPG"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3218520,
+    "name": "City Bus Manager - Holiday Resorts & Sightseeing Buses",
+    "release_date": "26 Sep, 2024",
+    "price": 6600,
+    "genres": [
+      "Casual",
+      "Simulation"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1865010,
+    "name": "HG Adventure",
+    "release_date": "3 Aug, 2023",
+    "price": 7200,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1836510,
+    "name": "Skylark",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3756080,
+    "name": "Bilson",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1412640,
+    "name": "Ribby Rocket",
+    "release_date": "25 Mar, 2021",
+    "price": 4500,
+    "genres": [
+      "Action"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1798088,
+    "name": "MONSTER HUNTER RISE - \"Royal Dreads\" hairstyle",
+    "release_date": "12 Jan, 2022",
+    "price": 1100,
+    "genres": [
+      "Action"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 449730,
+    "name": "Ahnayro: The Dream World",
+    "release_date": "1 Dec, 2016",
+    "price": 3300,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3569200,
+    "name": "How to Count to 100 - Japanese Voice Pack",
+    "release_date": "7 Mar, 2025",
+    "price": 1300,
+    "genres": [
+      "Casual",
+      "Free To Play",
+      "Audio Production",
+      "Education",
+      "Utilities",
+      "Video Production",
+      "Web Publishing",
+      "Game Development"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3321650,
+    "name": "ココロトーカーズ",
+    "release_date": "2025",
+    "price": null,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2098850,
+    "name": "Odium: Support the developer & Achievements",
+    "release_date": "21 Oct, 2022",
+    "price": 1800,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3359890,
+    "name": "ShelfLife: Art School Detective Playtest",
+    "release_date": "16 Dec, 2024",
+    "price": null,
+    "genres": [],
+    "type": "game"
+  },
+  {
+    "appid": 2370280,
+    "name": "Nobody's Left",
+    "release_date": "To be announced",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2606180,
+    "name": "Fellowship Demo",
+    "release_date": "15 Sep, 2023",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 3728990,
+    "name": "Toilet Battle Hero - Throbbing Gym",
+    "release_date": "24 Aug, 2025",
+    "price": 1300,
+    "genres": [
+      "Casual",
+      "Free To Play"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2598510,
+    "name": "Darkest Dungeon® II: The Binding Blade",
+    "release_date": "11 Dec, 2023",
+    "price": 4500,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3017560,
+    "name": "Hazy Hollow Demo",
+    "release_date": "30 May, 2024",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 1151750,
+    "name": "mmmmm donuts arhhh......",
+    "release_date": "23 Sep, 2019",
+    "price": 700,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3063450,
+    "name": "MENSEKI Area maze puzzles",
+    "release_date": "17 Jul, 2024",
+    "price": 3300,
+    "genres": [
+      "Casual"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2479520,
+    "name": "HypurrX",
+    "release_date": "To be announced",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Racing",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2146680,
+    "name": "Coffee For Robots",
+    "release_date": "29 Sep, 2022",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3390180,
+    "name": "Blue Light Soundtrack",
+    "release_date": "9 Dec, 2024",
+    "price": 700,
+    "genres": [],
+    "type": "music"
+  },
+  {
+    "appid": 2390650,
+    "name": "Boomeraxe",
+    "release_date": "26 Jul, 2023",
+    "price": 1300,
+    "genres": [
+      "Action"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3061740,
+    "name": "Memory Oblivion Box -  Radio Drama",
+    "release_date": "27 Jun, 2024",
+    "price": 2000,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3852240,
+    "name": "Cosmodrill Demo",
+    "release_date": "16 Aug, 2025",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 2920490,
+    "name": "Splash Dino",
+    "release_date": "26 Apr, 2024",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Free To Play"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 314770,
+    "name": "Pe-2: Dive Bomber",
+    "release_date": "6 Aug, 2014",
+    "price": 7500,
+    "genres": [
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1587830,
+    "name": "Mayu: Last of the Yaksha",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1231870,
+    "name": "Nevaeh Soundtrack",
+    "release_date": "17 Sep, 2020",
+    "price": 3800,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "type": "music"
+  },
+  {
+    "appid": 1508250,
+    "name": "Box And Ball",
+    "release_date": "23 Jul, 2021",
+    "price": 2800,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3770300,
+    "name": "She's Leaving Dalton's Demo",
+    "release_date": "11 Jul, 2025",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "type": "demo"
+  },
+  {
+    "appid": 959090,
+    "name": "WayDown",
+    "release_date": "5 Nov, 2018",
+    "price": null,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3254980,
+    "name": "Farm Your Friends - Heroes Pack",
+    "release_date": "26 Jun, 2025",
+    "price": 1300,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1027900,
+    "name": "Sexy Heroine!",
+    "release_date": "2 May, 2019",
+    "price": 5200,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 497890,
+    "name": "Super Sketch Bob: The Super Sketch Soundtrack",
+    "release_date": "16 Aug, 2019",
+    "price": 2800,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "music"
+  },
+  {
+    "appid": 2012020,
+    "name": "Dis Pontibus 2",
+    "release_date": "15 Jun, 2022",
+    "price": 3800,
+    "genres": [
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1798400,
+    "name": "Farm and Girls - Artbook 18+",
+    "release_date": "28 Oct, 2021",
+    "price": 700,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 628830,
+    "name": "Ultra Hat Dimension",
+    "release_date": "16 Jul, 2020",
+    "price": 3300,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2502540,
+    "name": "3D Lover -  Vintage Fashion",
+    "release_date": "7 Nov, 2023",
+    "price": 2000,
+    "genres": [
+      "Casual",
+      "Simulation"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 272390,
+    "name": "Max: The Curse of Brotherhood Demo",
+    "release_date": "21 May, 2014",
+    "price": null,
+    "genres": [
+      "Adventure"
+    ],
+    "type": "demo"
+  },
+  {
+    "appid": 1203470,
+    "name": "Earth Analog",
+    "release_date": "10 Feb, 2021",
+    "price": 15600,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1054560,
+    "name": "Alice in Stardom - A Free Idol Visual Novel",
+    "release_date": "5 Apr, 2019",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Indie",
+      "RPG",
+      "Free To Play"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1260430,
+    "name": "Ultimate Truco",
+    "release_date": "To be announced",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Simulation",
+      "Sports",
+      "Strategy",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3282700,
+    "name": "LIMINAL SHIFT",
+    "release_date": "24 Jun, 2025",
+    "price": 6600,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1418180,
+    "name": "MUSICUS!",
+    "release_date": "8 Apr, 2021",
+    "price": 18800,
+    "genres": [
+      "Adventure",
+      "Casual"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3427350,
+    "name": "Bad Trip",
+    "release_date": "Q4 2025",
+    "price": null,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 349650,
+    "name": "Tokyo Hosto",
+    "release_date": "2 Jun, 2015",
+    "price": 2800,
+    "genres": [
+      "Adventure"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3257570,
+    "name": "迷宫童话 Playtest",
+    "release_date": "4 Oct, 2024",
+    "price": null,
+    "genres": [],
+    "type": "game"
+  },
+  {
+    "appid": 2117740,
+    "name": "RPG Maker MV - Paladin Dream OST Music Pack",
+    "release_date": "2 Sep, 2022",
+    "price": 18700,
+    "genres": [
+      "Design & Illustration",
+      "Web Publishing"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 762174,
+    "name": "Monster Hunter: World - Gesture: Devil May Cry Dual Guns",
+    "release_date": "15 Nov, 2018",
+    "price": 3000,
+    "genres": [
+      "Action"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3223490,
+    "name": "Reign of Guilds - Knight",
+    "release_date": "19 Sep, 2024",
+    "price": 10800,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2977700,
+    "name": "Survive the Swarm",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2422360,
+    "name": "The Four Paths",
+    "release_date": "15 Jan, 2024",
+    "price": 700,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1097840,
+    "name": "Gears 5",
+    "release_date": "9 Sep, 2019",
+    "price": 20900,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1721852,
+    "name": "The Tower Of TigerQiuQiu 2 Warp Tiger M03",
+    "release_date": "28 Aug, 2021",
+    "price": 2000,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Racing",
+      "RPG",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3779800,
+    "name": "EONA",
+    "release_date": "2026",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3218630,
+    "name": "Super Woden: Rally Edge",
+    "release_date": "2025",
+    "price": null,
+    "genres": [
+      "Indie",
+      "Racing",
+      "Sports"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3559630,
+    "name": "CarX Drift Racing Online - Wild Union",
+    "release_date": "28 Apr, 2025",
+    "price": 2000,
+    "genres": [
+      "Massively Multiplayer",
+      "Racing",
+      "Simulation",
+      "Sports"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2219720,
+    "name": "Furry Shakespeare: Dashing Dinosaurs & Sexy Centaurs: Winter's Tale 2",
+    "release_date": "24 Nov, 2022",
+    "price": 2000,
+    "genres": [
+      "Adventure",
+      "Free To Play",
+      "Indie"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2639430,
+    "name": "SGS Sealion",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2190290,
+    "name": "To Be or Not to Be",
+    "release_date": "9 Dec, 2022",
+    "price": 4000,
+    "genres": [
+      "Adventure",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1778880,
+    "name": "Sword of Shadow: Revolution",
+    "release_date": "2025",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3197720,
+    "name": "Him, the Smile ＆ bloom",
+    "release_date": "27 Feb, 2025",
+    "price": 18700,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2772330,
+    "name": "Goblington",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1333980,
+    "name": "Flyist",
+    "release_date": "18 Jun, 2021",
+    "price": 3500,
+    "genres": [
+      "Casual",
+      "RPG",
+      "Simulation",
+      "Sports"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2234890,
+    "name": "Urbex Night Security",
+    "release_date": "8 May, 2023",
+    "price": 3300,
+    "genres": [
+      "Indie",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 643695,
+    "name": "TS Marketplace: Maunsell 59ft Low Window Corridor Coach Pack Southern Malachite Green",
+    "release_date": "18 Apr, 2018",
+    "price": 2800,
+    "genres": [
+      "Simulation"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3152570,
+    "name": "Pet Lands Demo",
+    "release_date": "30 Aug, 2024",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 1622780,
+    "name": "Latex Dungeon",
+    "release_date": "14 Mar, 2022",
+    "price": 6600,
+    "genres": [
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 496040,
+    "name": "Shaq Fu: A Legend Reborn",
+    "release_date": "5 Jun, 2018",
+    "price": 13900,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 9200,
+    "name": "RAGE",
+    "release_date": "3 Oct, 2011",
+    "price": 7700,
+    "genres": [
+      "Action"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2714570,
+    "name": "Shades of Rayna - Lasher Class",
+    "release_date": "26 Jan, 2024",
+    "price": 3900,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Free To Play"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 358200,
+    "name": "Math Rescue",
+    "release_date": "5 May, 2014",
+    "price": 3900,
+    "genres": [
+      "Adventure"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3848340,
+    "name": "Splicer",
+    "release_date": "To be announced",
+    "price": null,
+    "genres": [
+      "Action",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1973540,
+    "name": "Wandering in space Playtest",
+    "release_date": "25 Apr, 2022",
+    "price": null,
+    "genres": [],
+    "type": "game"
+  },
+  {
+    "appid": 3227780,
+    "name": "Black Paradox Reloaded",
+    "release_date": "3 Dec, 2024",
+    "price": null,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "demo"
+  },
+  {
+    "appid": 2869950,
+    "name": "DARKWELL:Assassin's Choice",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3559300,
+    "name": "Cipheur - Famous People Quotes 5",
+    "release_date": "14 Aug, 2025",
+    "price": 99,
+    "genres": [
+      "Casual",
+      "Free To Play"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3004080,
+    "name": "O reino em outro mundo Demo",
+    "release_date": "24 May, 2024",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 252410,
+    "name": "SteamWorld Dig",
+    "release_date": "5 Dec, 2013",
+    "price": 5200,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2304830,
+    "name": "MMV Playtest",
+    "release_date": "24 Feb, 2023",
+    "price": null,
+    "genres": [],
+    "type": "game"
+  },
+  {
+    "appid": 1012510,
+    "name": "Greenland Melting",
+    "release_date": "18 Mar, 2019",
+    "price": null,
+    "genres": [
+      "Education"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3403070,
+    "name": "Master of Pieces © Jigsaw Puzzle DLC - Marvels Valley",
+    "release_date": "2 Jan, 2025",
+    "price": 2600,
+    "genres": [
+      "Casual",
+      "Free To Play"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2477540,
+    "name": "The Lost Myth",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2431200,
+    "name": "POPOLOGIST® Camera Slinger",
+    "release_date": "16 Jun, 2023",
+    "price": 9500,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Strategy",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 518835,
+    "name": "Kikoriki: Nyusha’s Birthday",
+    "release_date": "22 Sep, 2016",
+    "price": null,
+    "genres": [],
+    "type": "episode"
+  },
+  {
+    "appid": 2979070,
+    "name": "A Few Days With : Rebecca",
+    "release_date": "21 Jun, 2024",
+    "price": 2000,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3850920,
+    "name": "SPEEDING",
+    "release_date": "To be announced",
+    "price": null,
+    "genres": [
+      "Indie",
+      "Racing",
+      "Simulation",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2345140,
+    "name": "Day In Day Out",
+    "release_date": "7 Jul, 2023",
+    "price": 2600,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1099790,
+    "name": "PROTOCOL 11 - Episode 1",
+    "release_date": "27 Aug, 2024",
+    "price": 6600,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2620410,
+    "name": "Paper Bride 5: Two Lifetimes - Original Artwork & Concept Art",
+    "release_date": "30 Nov, 2023",
+    "price": null,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3284670,
+    "name": "Song Song: BMTĐ-Soundtrack",
+    "release_date": "22 Jul, 2025",
+    "price": null,
+    "genres": [
+      "Free To Play"
+    ],
+    "type": "music"
+  },
+  {
+    "appid": 3320340,
+    "name": "Nomadic Tale (Harvest Elysium)",
+    "release_date": "6 Dec, 2024",
+    "price": 12500,
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1276060,
+    "name": "Fingertips  mountain  sea",
+    "release_date": "3 Dec, 2020",
+    "price": 700,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2888050,
+    "name": "Space Order Mine Playtest",
+    "release_date": "19 Mar, 2024",
+    "price": null,
+    "genres": [],
+    "type": "game"
+  },
+  {
+    "appid": 1124780,
+    "name": "Hentai MatchUp - Endless Mode",
+    "release_date": "1 Aug, 2019",
+    "price": 2300,
+    "genres": [
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2747060,
+    "name": "Office Fight",
+    "release_date": "21 Aug, 2024",
+    "price": 6600,
+    "genres": [
+      "Casual",
+      "Simulation",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1282360,
+    "name": "Escape From Island",
+    "release_date": "25 Sep, 2024",
+    "price": 1300,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2369910,
+    "name": "CyberSurfer Playtest",
+    "release_date": "18 Apr, 2023",
+    "price": null,
+    "genres": [],
+    "type": "game"
+  },
+  {
+    "appid": 727800,
+    "name": "Voxel Tank VR",
+    "release_date": "23 Oct, 2017",
+    "price": 560,
+    "genres": [
+      "Action"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3546080,
+    "name": "MALMIJAL",
+    "release_date": "20 Mar, 2025",
+    "price": 6600,
+    "genres": [
+      "Animation & Modeling",
+      "Education",
+      "Software Training",
+      "Utilities"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2403550,
+    "name": "Where is My Son?",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 524120,
+    "name": "Raptor Valley",
+    "release_date": "9 Sep, 2016",
+    "price": 2300,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1059250,
+    "name": "The Misadventure Of Melon - Party Mode",
+    "release_date": "25 Oct, 2019",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1694500,
+    "name": "The Craft of the Samurai",
+    "release_date": "25 Aug, 2021",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3232400,
+    "name": "Novi Blaster",
+    "release_date": "25 Oct, 2024",
+    "price": 2600,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 335170,
+    "name": "Potatoman OST & Supporter Pack",
+    "release_date": "3 Dec, 2014",
+    "price": 1300,
+    "genres": [
+      "Indie"
+    ],
+    "type": "music"
+  },
+  {
+    "appid": 3305240,
+    "name": "Kill Neon Demo",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 3031080,
+    "name": "Burning Sky",
+    "release_date": "17 Jul, 2024",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Free To Play"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2174750,
+    "name": "Get Your Tentacles Off My Waifu!",
+    "release_date": "To be announced",
+    "price": null,
+    "genres": [
+      "Action",
+      "Indie",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2372340,
+    "name": "THREEDAYS",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 845460,
+    "name": "Make Route",
+    "release_date": "5 Oct, 2018",
+    "price": 600,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1199910,
+    "name": "S.W.A.N.: Chernobyl Unexplored",
+    "release_date": "26 Apr, 2021",
+    "price": 7600,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2452007,
+    "name": "Deltazone - Legacy Pack",
+    "release_date": "To be announced",
+    "price": null,
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3625660,
+    "name": "A Few Days With : Zoey",
+    "release_date": "17 Apr, 2025",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Free To Play"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2137690,
+    "name": "Natives",
+    "release_date": "To be announced",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 914130,
+    "name": "ICE AGENT",
+    "release_date": "9 Oct, 2018",
+    "price": 700,
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3422670,
+    "name": "FlowerBots Demo",
+    "release_date": "1 Feb, 2025",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "demo"
+  },
+  {
+    "appid": 814590,
+    "name": "Caveman Stories",
+    "release_date": "23 Nov, 2018",
+    "price": 3300,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1070701,
+    "name": "SENRAN KAGURA Reflexions - Hairstyle Set",
+    "release_date": "24 Jun, 2019",
+    "price": 2300,
+    "genres": [
+      "Adventure",
+      "Simulation"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3578340,
+    "name": "Space Cowboy and the Robot Scourge",
+    "release_date": "To be announced",
+    "price": null,
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 319830,
+    "name": "AX:EL - Air XenoDawn",
+    "release_date": "4 Dec, 2015",
+    "price": null,
+    "genres": [
+      "Action",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1703843,
+    "name": "Tiger Fighter 1931 Tora!Tora! MP034",
+    "release_date": "1 Sep, 2021",
+    "price": 2000,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 240,
+    "name": "Counter-Strike: Source",
+    "release_date": "1 Nov, 2004",
+    "price": 6600,
+    "genres": [
+      "Action"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2151530,
+    "name": "YOU ARE THE DINNER",
+    "release_date": "13 Jan, 2023",
+    "price": 2000,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2629860,
+    "name": "PopTag",
+    "release_date": "To be announced",
+    "price": null,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1872160,
+    "name": "EPIC KNIGHT",
+    "release_date": "25 Jan, 2022",
+    "price": 700,
+    "genres": [
+      "Adventure"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1060140,
+    "name": "Stellar Sphere Demo",
+    "release_date": "4 Apr, 2019",
+    "price": null,
+    "genres": [
+      "Action",
+      "Indie",
+      "Sports"
+    ],
+    "type": "demo"
+  },
+  {
+    "appid": 802780,
+    "name": "Ball Platformer",
+    "release_date": "12 Mar, 2018",
+    "price": 1200,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3881810,
+    "name": "Goblin Chief",
+    "release_date": "To be announced",
+    "price": null,
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2426540,
+    "name": "The Paper Arcade - Snake",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Sports",
+      "Strategy"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 595920,
+    "name": "Death Point",
+    "release_date": "31 Aug, 2017",
+    "price": 3500,
+    "genres": [
+      "Nudity",
+      "Violent",
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1556715,
+    "name": "Capcom Arcade Stadium：MEGA TWINS",
+    "release_date": "24 May, 2021",
+    "price": 1500,
+    "genres": [
+      "Action"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3868660,
+    "name": "FUMES Soundtrack Disc A",
+    "release_date": "28 Jul, 2025",
+    "price": 2929,
+    "genres": [],
+    "type": "music"
+  },
+  {
+    "appid": 700990,
+    "name": "Gunship Battle2 VR: Steam Edition",
+    "release_date": "14 Nov, 2017",
+    "price": 5900,
+    "genres": [
+      "Action",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1158230,
+    "name": "Hunter's Soul",
+    "release_date": "13 Dec, 2019",
+    "price": 2800,
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2844050,
+    "name": "RPG Maker MV - Plue's Cute Fantasy Worlds - Magic Days & Scary Nights",
+    "release_date": "7 Mar, 2024",
+    "price": 7800,
+    "genres": [
+      "RPG",
+      "Design & Illustration",
+      "Education",
+      "Web Publishing",
+      "Game Development"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2588240,
+    "name": "Thunder Jumper",
+    "release_date": "6 Sep, 2024",
+    "price": 4600,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3427090,
+    "name": "Refence",
+    "release_date": "4 Mar, 2025",
+    "price": 3900,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2600960,
+    "name": "HoverGrease 2",
+    "release_date": "2025",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1705011,
+    "name": "Tiger Soldier Ⅰ MP022",
+    "release_date": "24 Aug, 2021",
+    "price": 2000,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1871780,
+    "name": "Rorys Restaurant Origins",
+    "release_date": "26 Jan, 2022",
+    "price": 1560,
+    "genres": [
+      "Casual",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2432650,
+    "name": "Fantasy Grounds - Pathfinder 2 RPG - Pathfinder Society Scenario #4-13: Within the Prairies",
+    "release_date": "24 May, 2023",
+    "price": 3900,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2394360,
+    "name": "You've been banished. - Additional Adult Story & Graphics DLC",
+    "release_date": "8 Sep, 2023",
+    "price": null,
+    "genres": [
+      "RPG"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2060210,
+    "name": "Aokana - Four Rhythms Across the Blue Piano Album #2",
+    "release_date": "12 Apr, 2023",
+    "price": 7200,
+    "genres": [],
+    "type": "music"
+  },
+  {
+    "appid": 2710230,
+    "name": "duplicity loop Demo",
+    "release_date": "24 Dec, 2023",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 3324230,
+    "name": "Critter Gang",
+    "release_date": "5 Dec, 2024",
+    "price": null,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Free To Play"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3689850,
+    "name": "Final War: Frozen Defense",
+    "release_date": "28 May, 2025",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Simulation",
+      "Strategy",
+      "Free To Play"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3397590,
+    "name": "Aeschylus: Death",
+    "release_date": "April 2026",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1940840,
+    "name": "Lich Queen's Curse",
+    "release_date": "To be announced",
+    "price": null,
+    "genres": [
+      "Adventure",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1903220,
+    "name": "Paint To Pixel",
+    "release_date": "1 Mar, 2022",
+    "price": 4500,
+    "genres": [
+      "Casual"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 561820,
+    "name": "VR Photo Viewer Demo",
+    "release_date": "22 Dec, 2016",
+    "price": null,
+    "genres": [
+      "Utilities"
+    ],
+    "type": "demo"
+  },
+  {
+    "appid": 3725580,
+    "name": "Novice in the world - Advanced Gift Pack",
+    "release_date": "7 Aug, 2025",
+    "price": 1300,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy",
+      "Free To Play"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2705390,
+    "name": "One Military Camp - Christmas Season",
+    "release_date": "21 Dec, 2023",
+    "price": null,
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 908710,
+    "name": "NightKnight",
+    "release_date": "28 Aug, 2018",
+    "price": 2800,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1896970,
+    "name": "Space Mechanic Simulator: Prologue Playtest",
+    "release_date": "9 Jan, 2023",
+    "price": null,
+    "genres": [],
+    "type": "game"
+  },
+  {
+    "appid": 3682740,
+    "name": "NINA: The Wedding of Shadows",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2933380,
+    "name": "Pirates of Planet B",
+    "release_date": "21 Nov, 2024",
+    "price": 6600,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2714210,
+    "name": "Pocket Pusher",
+    "release_date": "30 Apr, 2024",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1801882,
+    "name": "Vampire: The Masquerade - Swansong Artifacts Pack",
+    "release_date": "30 May, 2023",
+    "price": 3300,
+    "genres": [
+      "Adventure",
+      "RPG"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1754190,
+    "name": "Fantasy Grounds - 13th Age Bestiary 2",
+    "release_date": "21 Sep, 2021",
+    "price": 7600,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3946840,
+    "name": "Stranger Tavern - Brawl Playtest",
+    "release_date": "14 Aug, 2025",
+    "price": null,
+    "genres": [],
+    "type": "game"
+  },
+  {
+    "appid": 2420800,
+    "name": "Sol Mates",
+    "release_date": "To be announced",
+    "price": null,
+    "genres": [
+      "Casual"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1873470,
+    "name": "V-Skin redpillgo support Pack",
+    "release_date": "26 Dec, 2022",
+    "price": 9500,
+    "genres": [
+      "Audio Production",
+      "Software Training",
+      "Video Production",
+      "Web Publishing",
+      "Game Development"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1404930,
+    "name": "Snowman Saves Christmas",
+    "release_date": "30 Nov, 2020",
+    "price": 760,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3227240,
+    "name": "MineGeon: Renegades",
+    "release_date": "To be announced",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1658001,
+    "name": "Surviving Mars: Future Contemporary Cosmetic Pack",
+    "release_date": "28 Apr, 2022",
+    "price": 3800,
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3459030,
+    "name": "DREADCORE : Locked Unit",
+    "release_date": "Q4 2025",
+    "price": null,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2261150,
+    "name": "Elven City Simulator",
+    "release_date": "18 Oct, 2024",
+    "price": 7200,
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3366590,
+    "name": "Crestfall",
+    "release_date": "12 Mar, 2025",
+    "price": null,
+    "genres": [
+      "Strategy",
+      "Free To Play"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2298990,
+    "name": "Web Crawlies {Multiplayer}",
+    "release_date": "10 Feb, 2023",
+    "price": 700,
+    "genres": [
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1939314,
+    "name": "Cool Kid Cody - Season 1 Episode 06",
+    "release_date": "13 May, 2022",
+    "price": 1300,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2828100,
+    "name": "Trail of Singularity",
+    "release_date": "To be announced",
+    "price": null,
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2488153,
+    "name": "Sun Haven: Free Snaccoon Costume",
+    "release_date": "27 Jun, 2023",
+    "price": null,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1040920,
+    "name": "Epic World Demo",
+    "release_date": "18 Oct, 2019",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "type": "demo"
+  },
+  {
+    "appid": 1431030,
+    "name": "DCS: A-10C II Tank Killer Upgrade",
+    "release_date": "30 Sep, 2020",
+    "price": 15639,
+    "genres": [
+      "Simulation"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2545340,
+    "name": "Witches' Hallow",
+    "release_date": "20 Oct, 2023",
+    "price": 2600,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2002740,
+    "name": "King Arthur's Petaldust Saga",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1256540,
+    "name": "Nonogram Animal Griddlers Demo",
+    "release_date": "25 Feb, 2020",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "demo"
+  },
+  {
+    "appid": 1254390,
+    "name": "Toxastra",
+    "release_date": "19 Dec, 2021",
+    "price": 3500,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3694370,
+    "name": "My Cozy Room Demo",
+    "release_date": "12 May, 2025",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "demo"
+  },
+  {
+    "appid": 2125050,
+    "name": "Out of the Cube",
+    "release_date": "21 Oct, 2022",
+    "price": 1300,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1948390,
+    "name": "Piero's Pilgrimage",
+    "release_date": "21 Jul, 2023",
+    "price": 4541,
+    "genres": [
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2569990,
+    "name": "Naheulbeuk's Dungeon Master Playtest",
+    "release_date": "30 Aug, 2023",
+    "price": null,
+    "genres": [],
+    "type": "game"
+  },
+  {
+    "appid": 3836540,
+    "name": "Century of Anticipation: Pesca",
+    "release_date": "11 Jul, 2025",
+    "price": 3300,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Free To Play"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2557660,
+    "name": "Jack Dragon and the Stone of Peace",
+    "release_date": "18 Oct, 2023",
+    "price": 3300,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1920810,
+    "name": "Calmie Dots",
+    "release_date": "16 May, 2022",
+    "price": 700,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3711700,
+    "name": "ESCAPE",
+    "release_date": "31 May, 2025",
+    "price": 1349,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 637713,
+    "name": "Rocksmith® 2014 Edition – Remastered - The Gaslight Anthem - “45”",
+    "release_date": "8 Aug, 2017",
+    "price": 2300,
+    "genres": [
+      "Casual",
+      "Simulation"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1745880,
+    "name": "Glob Dash",
+    "release_date": "27 Sep, 2021",
+    "price": 1200,
+    "genres": [
+      "Action"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2161120,
+    "name": "Slime Ranger Sokoban",
+    "release_date": "15 Nov, 2022",
+    "price": 1300,
+    "genres": [
+      "Casual"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3810180,
+    "name": "Mortal Advocate: Magical Textbook & Artbook DLC",
+    "release_date": "11 Jun, 2025",
+    "price": 700,
+    "genres": [
+      "Indie"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1340990,
+    "name": "Rise of the Ronin",
+    "release_date": "10 Mar, 2025",
+    "price": 39900,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 352200,
+    "name": "FSX: Steam Edition - McClellan-Palomar Airport (KCRQ) Add-On",
+    "release_date": "21 Jul, 2015",
+    "price": 10900,
+    "genres": [
+      "Simulation"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3945780,
+    "name": "Football Academy Manager Demo",
+    "release_date": "2 Sep, 2025",
+    "price": null,
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Sports"
+    ],
+    "type": "demo"
+  },
+  {
+    "appid": 1075140,
+    "name": "Super Friends Party",
+    "release_date": "14 Jun, 2019",
+    "price": null,
+    "genres": [
+      "Free To Play",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 605100,
+    "name": "Renzo Racer",
+    "release_date": "28 Aug, 2019",
+    "price": 3900,
+    "genres": [
+      "Action",
+      "Indie",
+      "Racing"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2859340,
+    "name": "Project Nightmares Multiplayer Playtest",
+    "release_date": "19 Jun, 2024",
+    "price": null,
+    "genres": [],
+    "type": "game"
+  },
+  {
+    "appid": 3892100,
+    "name": "Classroom Reverie",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3562800,
+    "name": "Shroud of Gloom Playtest",
+    "release_date": "3 Mar, 2025",
+    "price": null,
+    "genres": [],
+    "type": "game"
+  },
+  {
+    "appid": 2468060,
+    "name": "Breaking Survivors",
+    "release_date": "30 Nov, 2023",
+    "price": 2600,
+    "genres": [
+      "Action",
+      "Casual"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1735140,
+    "name": "Pushy Worm",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2589180,
+    "name": "Geometric Link",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Strategy",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2085970,
+    "name": "Cracking the Cryptic",
+    "release_date": "1 Aug, 2022",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2903490,
+    "name": "Desert Of The Undead New Frontiers",
+    "release_date": "19 Apr, 2024",
+    "price": 1300,
+    "genres": [
+      "Action"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3091030,
+    "name": "Robot's Fate: Alice",
+    "release_date": "2025",
+    "price": null,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 698160,
+    "name": "DinosaurIsland",
+    "release_date": "3 Sep, 2017",
+    "price": 3000,
+    "genres": [
+      "Violent",
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2891310,
+    "name": "Genome Guardian",
+    "release_date": "7 May, 2024",
+    "price": 7799,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2221281,
+    "name": "theBlu - Reef Migration",
+    "release_date": "28 Dec, 2022",
+    "price": 1300,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2464530,
+    "name": "VOIN",
+    "release_date": "10 Dec, 2024",
+    "price": 12500,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2254020,
+    "name": "Take Care VR",
+    "release_date": "5 Jan, 2023",
+    "price": 3300,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2497950,
+    "name": "TERCIOS - Honor and glory",
+    "release_date": "To be announced",
+    "price": null,
+    "genres": [
+      "Strategy",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 272690,
+    "name": "Blast Em! Source Code",
+    "release_date": "22 Jan, 2014",
+    "price": null,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2918570,
+    "name": "RISKY CHRONICLES and the curse of destiny",
+    "release_date": "26 Apr, 2024",
+    "price": 6600,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3092000,
+    "name": "Treasure Protector",
+    "release_date": "8 Aug, 2024",
+    "price": 2999,
+    "genres": [
+      "Strategy",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1857601,
+    "name": "Doom & Destiny Worlds - Classic",
+    "release_date": "18 Nov, 2022",
+    "price": null,
+    "genres": [
+      "Indie",
+      "RPG"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3738450,
+    "name": "Dash Dot Die",
+    "release_date": "To be announced",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3491380,
+    "name": "God's Disdain Demo",
+    "release_date": "2 Feb, 2025",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 3585200,
+    "name": "Rescue Heli RH407 Demo",
+    "release_date": "4 Apr, 2025",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Racing",
+      "Simulation"
+    ],
+    "type": "demo"
+  },
+  {
+    "appid": 370330,
+    "name": "Welcome To The Untitled Game",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Massively Multiplayer",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2143020,
+    "name": "Miszou",
+    "release_date": "To be announced",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Sports"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1098480,
+    "name": "Fruit Factory",
+    "release_date": "24 Sep, 2020",
+    "price": 4500,
+    "genres": [
+      "Casual",
+      "Simulation",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3487290,
+    "name": "Little Green Girl BGM Collection",
+    "release_date": "11 Feb, 2025",
+    "price": null,
+    "genres": [
+      "Free To Play"
+    ],
+    "type": "music"
+  },
+  {
+    "appid": 2507550,
+    "name": "Oleksandr Lytvynenko Demo",
+    "release_date": "14 Oct, 2023",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 937440,
+    "name": "Fantasy Grounds - Alone Against the Dark (Call of Cthulhu 7E)",
+    "release_date": "12 Sep, 2018",
+    "price": 3800,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1513290,
+    "name": "Grey Skies: A War of the Worlds Story Demo",
+    "release_date": "23 Jan, 2021",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 958050,
+    "name": "1001st Hyper Tower",
+    "release_date": "7 Nov, 2019",
+    "price": 6200,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 956550,
+    "name": "Devil Girl Needs Massages",
+    "release_date": "29 Oct, 2018",
+    "price": 600,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2994250,
+    "name": "Beer Runner",
+    "release_date": "10 Apr, 2025",
+    "price": 1650,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 323950,
+    "name": "Ethan: Meteor Hunter",
+    "release_date": "7 Feb, 2014",
+    "price": 6600,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1172800,
+    "name": "Perfect Tides",
+    "release_date": "21 Feb, 2022",
+    "price": 7600,
+    "genres": [
+      "Adventure"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1774440,
+    "name": "Gedel Escape Demo",
+    "release_date": "28 Sep, 2021",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 2070920,
+    "name": "CODE:MACHINA",
+    "release_date": "To be announced",
+    "price": null,
+    "genres": [
+      "Action"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3161760,
+    "name": "CHEATING?   ABSOLUTELY NOT！",
+    "release_date": "To be announced",
+    "price": null,
+    "genres": [
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1705060,
+    "name": "Tiger Soldier Ⅰ MP051",
+    "release_date": "9 Sep, 2021",
+    "price": 2000,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3762770,
+    "name": "Find Meow in Wild West",
+    "release_date": "11 Jun, 2025",
+    "price": 449,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3741910,
+    "name": "Narb Fortunii",
+    "release_date": "12 Jun, 2025",
+    "price": null,
+    "genres": [
+      "Adventure",
+      "Free To Play"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1167770,
+    "name": "More Dark",
+    "release_date": "7 Nov, 2019",
+    "price": 5800,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2336820,
+    "name": "Oni Academy",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3269910,
+    "name": "勇者村庄 Playtest",
+    "release_date": "6 Oct, 2024",
+    "price": null,
+    "genres": [],
+    "type": "game"
+  },
+  {
+    "appid": 3878250,
+    "name": "Epileptic Spectrum Demo",
+    "release_date": "11 Aug, 2025",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 2956550,
+    "name": "Loco Limbo",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 681920,
+    "name": "Slingshot Cowboy VR",
+    "release_date": "28 Jul, 2017",
+    "price": 1800,
+    "genres": [
+      "Action",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3630120,
+    "name": "Nexistoreum",
+    "release_date": "17 Apr, 2025",
+    "price": null,
+    "genres": [
+      "RPG",
+      "Simulation",
+      "Free To Play"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1868090,
+    "name": "Village of Zombies - Abandoned City",
+    "release_date": "4 Mar, 2022",
+    "price": 2000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 779933,
+    "name": "DRAGON BALL FighterZ - Broly",
+    "release_date": "28 Mar, 2018",
+    "price": 3900,
+    "genres": [
+      "Action"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3748430,
+    "name": "X-WAR Demo",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 1342490,
+    "name": "Daemon X Machina: Titanic Scion",
+    "release_date": "5 Sep, 2025",
+    "price": 42800,
+    "genres": [
+      "Action"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 740143,
+    "name": "DRAGON BALL XENOVERSE 2 - Extra DLC Pack 4",
+    "release_date": "18 Dec, 2018",
+    "price": 6400,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Massively Multiplayer"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 1787160,
+    "name": "Cupid Nonogram",
+    "release_date": "19 Nov, 2021",
+    "price": 1800,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2785180,
+    "name": "Rain Runner",
+    "release_date": "29 Feb, 2024",
+    "price": 3300,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Racing"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3234940,
+    "name": "Wonderland: Red Queen Protocol",
+    "release_date": "To be announced",
+    "price": null,
+    "genres": [
+      "Casual",
+      "RPG",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3204540,
+    "name": "Town Keeper Demo",
+    "release_date": "15 Sep, 2024",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 3246530,
+    "name": "GeneGo",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1135970,
+    "name": "The Surge 2 - Public Enemy Weapon Pack",
+    "release_date": "12 Nov, 2019",
+    "price": 1340,
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3344160,
+    "name": "HIDDEN CATS 2: Crafts",
+    "release_date": "11 Dec, 2024",
+    "price": 700,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2408670,
+    "name": "April '86",
+    "release_date": "2025",
+    "price": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2302200,
+    "name": "Gravity Demo",
+    "release_date": "30 Jan, 2023",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 3411730,
+    "name": "Desktop Fishing",
+    "release_date": "16 Jun, 2025",
+    "price": 2300,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 779960,
+    "name": "BM Studio",
+    "release_date": "3 May, 2018",
+    "price": 1200,
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Audio Production",
+      "Education",
+      "Software Training",
+      "Utilities",
+      "Game Development",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 597840,
+    "name": "Live Wallpaper Master",
+    "release_date": "7 Dec, 2017",
+    "price": 2300,
+    "genres": [
+      "Animation & Modeling",
+      "Design & Illustration",
+      "Photo Editing",
+      "Utilities"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 558340,
+    "name": "Faces of Illusion: The Twin Phantoms",
+    "release_date": "19 Jan, 2017",
+    "price": 9500,
+    "genres": [
+      "Adventure",
+      "Casual"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1703851,
+    "name": "Tiger Fighter 1931 Tora!Tora! MP042",
+    "release_date": "9 Sep, 2021",
+    "price": 2000,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 325420,
+    "name": "Homebrew - Patent Unknown",
+    "release_date": "14 Nov, 2014",
+    "price": 9500,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Racing",
+      "Simulation",
+      "Sports",
+      "Early Access"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2620390,
+    "name": "Paper Bride 5: Two Lifetimes - Original Soundtrack",
+    "release_date": "30 Nov, 2023",
+    "price": null,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 981040,
+    "name": "Comit in Krater Returns",
+    "release_date": "8 Jan, 2019",
+    "price": 700,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2873490,
+    "name": "BETRAYED",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 518943,
+    "name": "Kikoriki: It  Can't Be true",
+    "release_date": "22 Sep, 2016",
+    "price": null,
+    "genres": [],
+    "type": "episode"
+  },
+  {
+    "appid": 1024400,
+    "name": "Marenian Tavern Story: Patty and the Hungry God",
+    "release_date": "21 May, 2019",
+    "price": 14000,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "RPG",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 401650,
+    "name": "PAYDAY 2: Gage Chivalry Pack",
+    "release_date": "10 Sep, 2015",
+    "price": 1300,
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3688180,
+    "name": "The Long Tale Demo",
+    "release_date": "5 May, 2025",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 4005530,
+    "name": "Hellbrella Soundtrack",
+    "release_date": "18 Sep, 2025",
+    "price": null,
+    "genres": [],
+    "type": "music"
+  },
+  {
+    "appid": 1668530,
+    "name": "The Legend of Nayuta: Boundless Trails",
+    "release_date": "10 Dec, 2021",
+    "price": 26800,
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2427130,
+    "name": "The Girl Who Kicked a Rabbit",
+    "release_date": "28 Feb, 2025",
+    "price": 9500,
+    "genres": [
+      "Casual",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3324870,
+    "name": "Enlisted - M26 T99 Squad",
+    "release_date": "16 Dec, 2024",
+    "price": 29900,
+    "genres": [
+      "Action",
+      "Massively Multiplayer",
+      "Free To Play"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 3438100,
+    "name": "Lustful Fingers",
+    "release_date": "22 Aug, 2025",
+    "price": 6600,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 887920,
+    "name": "Maestro: Music from the Void Collector's Edition",
+    "release_date": "11 Jul, 2018",
+    "price": 5200,
+    "genres": [
+      "Adventure",
+      "Casual"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2482920,
+    "name": "Flower in Us",
+    "release_date": "25 Jul, 2025",
+    "price": 5200,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2404840,
+    "name": "Tales from Candleforth Playtest",
+    "release_date": "6 Oct, 2023",
+    "price": null,
+    "genres": [],
+    "type": "game"
+  },
+  {
+    "appid": 1605430,
+    "name": "Roots of Tomorrow",
+    "release_date": "11 May, 2022",
+    "price": null,
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 2577100,
+    "name": "(18+)Tentacles Party With Nuns ASMR- After the story(Betsy)",
+    "release_date": "Q4 2025",
+    "price": null,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "RPG"
+    ],
+    "type": "dlc"
+  },
+  {
+    "appid": 2859700,
+    "name": "FIREWALL: Cyber Defense Demo",
+    "release_date": "26 Apr, 2024",
+    "price": null,
+    "genres": [],
+    "type": "demo"
+  },
+  {
+    "appid": 2283350,
+    "name": "Reborn A Zombie!",
+    "release_date": "7 Aug, 2023",
+    "price": null,
+    "genres": [
+      "Casual"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3447520,
+    "name": "Basureroes: Invasion Soundtrack",
+    "release_date": "30 Jan, 2025",
+    "price": 3900,
+    "genres": [],
+    "type": "music"
+  },
+  {
+    "appid": 913250,
+    "name": "Mimic",
+    "release_date": "24 Aug, 2018",
+    "price": 600,
+    "genres": [
+      "Indie"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 3863940,
+    "name": "Man Simulator 2025",
+    "release_date": "Coming soon",
+    "price": null,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "type": "game"
+  },
+  {
+    "appid": 1860080,
+    "name": "PathlessWoods Playtest",
+    "release_date": "27 Jul, 2023",
+    "price": null,
+    "genres": [],
+    "type": "game"
+  }
+]
