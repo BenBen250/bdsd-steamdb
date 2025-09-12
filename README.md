@@ -17,8 +17,16 @@ activate python virtual environment:
 cd C:\Users\Benedict\Programming\steam-trend-analyzer
 .\venv\Scripts\activate
 
-Step 3: Run the producer script
-python scripts\kafka_producer.py
+to create topics:
+cd C:\kafka
+PS C:\kafka> .\bin\windows\kafka-topics.bat --create --topic steam-games --bootstrap-server localhost:9092 --partitions 1 --replication-factor 1
+Created topic steam-games.
+verify topics: 
+.\bin\windows\kafka-topics.bat --list --bootstrap-server localhost:9092
+
+
+Step 3: Run the producer script : path to environment first
+python kafka_producer.py
 
 Step 4: Verify messages are sent
 Open another PowerShell window.
@@ -27,7 +35,3 @@ cd C:\kafka\bin\windows
 Run the console consumer to see the messages in real time:
 .\kafka-console-consumer.bat --topic steam-games --bootstrap-server localhost:9092 --from-beginning
 
-to create topics:
-cd C:\kafka
-PS C:\kafka> .\bin\windows\kafka-topics.bat --create --topic steam-games --bootstrap-server localhost:9092 --partitions 1 --replication-factor 1
-Created topic steam-games.

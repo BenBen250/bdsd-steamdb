@@ -1,10 +1,8 @@
 import json
-import time
 from kafka import KafkaProducer
-import pandas as pd
 
-# Load your Steam games CSV
-df = pd.read_csv("../data/games_clean.csv")  # fixed path for script location
+# JSONL file generated earlier
+input_file = "../data/games_clean.jsonl"
 
 # Connect to Kafka
 producer = KafkaProducer(
@@ -12,11 +10,17 @@ producer = KafkaProducer(
     value_serializer=lambda v: json.dumps(v).encode('utf-8')
 )
 
-# Send each row as a message with a 1-second interval
-for index, row in df.iterrows():
-    data = row.to_dict()
-    producer.send('steam-games', value=data)
-    print(f"Sent: {data['appid']} - {data['name']}")
-    time.sleep(1)
+topic = "steam-games"
 
+# Read the JSONL file and send each line to Kafka
+with open(input_file, "r", encoding="utf-8") as f:
+    for line in f:
+        if not line.strip():
+            continue
+        game = json.loads(line)
+        producer.send(topic, value=game)
+
+# Flush messages to make sure all are sent
 producer.flush()
+print("All messages sent to Kafka topic:", topic)
+
