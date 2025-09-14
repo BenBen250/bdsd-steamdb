@@ -1,12 +1,8 @@
-# kafka_consumer.py
 import json
 import pandas as pd
 from kafka import KafkaConsumer
 import os
 
-# ----------------------------
-# Configuration
-# ----------------------------
 TOPIC = "steam-games"
 BOOTSTRAP_SERVERS = "localhost:9092"
 BATCH_SIZE = 1000
@@ -15,18 +11,16 @@ OUTPUT_FILE = "../data/raw_games_batch.csv"
 # Ensure output directory exists
 os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
 
-# ----------------------------
+
 # Safe JSON loader
-# ----------------------------
 def safe_json_loads(x):
     try:
         return json.loads(x.decode('utf-8'))
     except (json.JSONDecodeError, AttributeError):
         return None  # skip invalid messages
 
-# ----------------------------
+
 # Kafka consumer
-# ----------------------------
 consumer = KafkaConsumer(
     TOPIC,
     bootstrap_servers=BOOTSTRAP_SERVERS,
@@ -35,9 +29,7 @@ consumer = KafkaConsumer(
     consumer_timeout_ms=10000  # stop after 10s of inactivity
 )
 
-# ----------------------------
 # Consume messages
-# ----------------------------
 games_data = []
 total_consumed = 0
 

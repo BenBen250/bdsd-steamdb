@@ -8,15 +8,15 @@ input_file = "../data/games_clean.jsonl"
 producer = KafkaProducer(
     bootstrap_servers='localhost:9092',
     value_serializer=lambda v: json.dumps(v).encode('utf-8'),
-    buffer_memory=67108864,  # larger buffer
-    batch_size=32768,        # batch messages
+    buffer_memory=67108864,  
+    batch_size=32768,        
     linger_ms=10             # small wait to improve batching
 )
 
 topic = "steam-games"
 
 count = 0
-check_every = 10000  # check Kafka ack every 10k messages
+check_every = 10000  
 
 # Read the JSONL file and send each line to Kafka
 with open(input_file, "r", encoding="utf-8") as f:
@@ -28,7 +28,7 @@ with open(input_file, "r", encoding="utf-8") as f:
         future = producer.send(topic, value=game)
         count += 1
 
-        # Hybrid check: verify Kafka ack every N messages
+  
         if count % check_every == 0:
             try:
                 future.get(timeout=10)
@@ -40,6 +40,5 @@ with open(input_file, "r", encoding="utf-8") as f:
         if count % 1000 == 0:
             print(f"Sent {count} messages so far...")
 
-# Flush remaining messages
 producer.flush()
 print(f"✅ All {count} messages sent to Kafka topic: {topic}")
