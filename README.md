@@ -28,10 +28,16 @@ verify topics:
 Step 3: Run the producer script : path to environment first
 python kafka_producer.py
 
+
+how to activate venv in terminal:
+.\venv\Scripts\Activate.ps1
+
+
 Step 4: Verify messages are sent
 Open another PowerShell window.
 Navigate to Kafka’s bin folder:
 cd C:\kafka\bin\windows
 Run the console consumer to see the messages in real time:
 .\kafka-console-consumer.bat --topic steam-games --bootstrap-server localhost:9092 --from-beginning
+
 
