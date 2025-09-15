@@ -24,6 +24,7 @@ cd C:\kafka
 .\bin\windows\kafka-topics.bat --list --bootstrap-server localhost:9092
 # Delete topic to reset the content in the port
 .\bin\windows\kafka-topics.bat --delete --topic steam-games --bootstrap-server localhost:9092
+# if encounter error delete the kafka-logs and zookeeper in c:\tmp folder
 
 
 # Run the producer script : path to environment first
