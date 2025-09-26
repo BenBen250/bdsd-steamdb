@@ -1,16 +1,15 @@
-import json
-import pandas as pd
-from kafka import KafkaConsumer
-import os
+ import json
+ import csv
+ import os
+ import time
+ from kafka import KafkaConsumer
+ import pandas as pd
+ from pyspark.sql import SparkSession
+ from pyspark.sql.functions import col, when
 
 TOPIC = "steam-games"
 BOOTSTRAP_SERVERS = "localhost:9092"
-BATCH_SIZE = 1000
-OUTPUT_FILE = "../data/raw_games_batch.csv"
-
-# Ensure output directory exists
-os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
-
+HDFS_PATH = "hdfs://localhost:9000/steam_games/"  # Adjust HDFS path as needed
 
 # Safe JSON loader
 def safe_json_loads(x):
@@ -19,54 +18,67 @@ def safe_json_loads(x):
     except (json.JSONDecodeError, AttributeError):
         return None  # skip invalid messages
 
-
 # Kafka consumer
 consumer = KafkaConsumer(
     TOPIC,
     bootstrap_servers=BOOTSTRAP_SERVERS,
     auto_offset_reset='earliest',
-    value_deserializer=safe_json_loads,
-    consumer_timeout_ms=10000  # stop after 10s of inactivity
+    value_deserializer=safe_json_loads
 )
 
-# Consume messages
 games_data = []
 total_consumed = 0
+start_time = time.time()
 
-print("Consuming messages from Kafka...")
+print("Consuming messages from Kafka and processing every minute...")
 
-for message in consumer:
-    if message.value is None:
-        continue
-    games_data.append(message.value)
-    total_consumed += 1
+while True:
+    messages = consumer.poll(timeout_ms=1000)  # Poll for messages, timeout 1 second
+    for topic_partition, records in messages.items():
+        for record in records:
+            if record.value is None:
+                continue
+            games_data.append(record.value)
+            total_consumed += 1
 
-# Convert and save in batches
-if len(games_data) >= BATCH_SIZE:
-    df_batch = pd.DataFrame(games_data)
-    df_batch.to_csv(
-        OUTPUT_FILE,
-        mode='a',
-        index=False,
-        header=not os.path.exists(OUTPUT_FILE),
-        encoding='utf-8'
-    )
-    games_data = []
-    print(f"{total_consumed} messages consumed and saved to CSV")
+    current_time = time.time()
+    if current_time - start_time >= 60 and games_data:
+        # Process the batch
+        print(f"Processing batch of {len(games_data)} messages at {time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(current_time))}")
 
-# Save remaining messages
-if games_data:
-    df_batch = pd.DataFrame(games_data)
-    df_batch.to_csv(
-        OUTPUT_FILE,
-        mode='a',
-        index=False,
-        header=not os.path.exists(OUTPUT_FILE),
-        encoding='utf-8'
-    )
+        # Write to temp CSV
+        temp_csv = f"temp_games_{int(current_time)}.csv"
+        df_batch = pd.DataFrame(games_data)
+        df_batch.to_csv(temp_csv, index=False)
 
+        # Spark processing
+        spark = SparkSession.builder \
+            .appName("SteamGamesProcessing") \
+            .config("spark.hadoop.fs.defaultFS", "hdfs://localhost:9000") \
+            .getOrCreate()
+
+        # Read CSV with Spark
+        df = spark.read.csv(temp_csv, header=True, inferSchema=True)
+
+        # Preprocessing: clean and remove unnecessary stuff
+        df_processed = df \
+            .filter(col("name").isNotNull()) \
+            .withColumn("price", when(col("price").isNull(), 0).otherwise(col("price"))) \
+            .dropna(subset=["appid"])  # Assuming appid is key field
+
+        # Save processed data to HDFS (append mode for streaming effect)
+        df_processed.write.mode("append").csv(HDFS_PATH + "processed_games")
+
+        spark.stop()
+
+        # Clean up temp file
+        os.remove(temp_csv)
+
+        print(f"Batch processed and saved to HDFS. Total consumed so far: {total_consumed}")
+
+        # Reset for next interval
+        games_data = []
+        start_time = current_time
 
 consumer.close()
-print(f"Kafka consumption finished. Total messages consumed: {total_consumed}")
-print(f"Saved to: {OUTPUT_FILE}")
 
