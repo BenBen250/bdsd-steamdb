@@ -1,11 +1,11 @@
- import json
- import csv
- import os
- import time
- from kafka import KafkaConsumer
- import pandas as pd
- from pyspark.sql import SparkSession
- from pyspark.sql.functions import col, when
+import json
+import csv
+import os
+import time
+from kafka import KafkaConsumer
+import pandas as pd
+from pyspark.sql import SparkSession
+from pyspark.sql.functions import col, when
 
 TOPIC = "steam-games"
 BOOTSTRAP_SERVERS = "localhost:9092"
